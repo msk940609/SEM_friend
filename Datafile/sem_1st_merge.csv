@@ -1,0 +1,1651 @@
+﻿point_id,Morphology,Size,Class2,Type,Detail,Type2,Sample,No,Group,Year,Month,Day,Event
+1,spherical,0.298,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+2,cluster,1.14,2.5,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+3,cluster,0.363,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+4,spherical,0.606,1,Fly ash,,Others,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+5,spherical,1.27,2.5,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+6,spherical,0.42,1,Calcium Sulfate,,Others,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+7,chainlike,0.056,1,Carbonaceous,,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+8,cluster,0.063,1,Transition metal,,Transition metal,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+9,spherical,0.416,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+10,irregular,0.557,1,Carbonaceous,calcium sulfate,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+11,irregular,0.31,1,Carbonaceous,calcium sulfate,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+12,cluster,0.095,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+13,cluster,0.059,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+14,irregular,0.097,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+15,spherical,0.682,1,Carbonaceous,calcium sulfate,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+16,spherical,0.215,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+17,cluster,0.049,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+18,irregular,0.384,1,Carbonaceous,calcium sulfate,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+19,spherical,0.251,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+20,irregular,0.331,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+21,cluster,0.76,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+22,cluster,0.171,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+23,irregular,0.52,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+24,irregular,0.967,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+25,spherical,0.891,1,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+26,cluster,0.65,1,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+27,irregular,0.565,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+28,cluster,0.918,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+29,spherical,1.49,2.5,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+30,irregular,0.602,1,Quartz,,Others,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+31,spherical,0.389,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+32,irregular,0.878,1,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+33,cluster,0.999,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+34,irregular,1.93,2.5,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+35,cluster,0.892,1,Carbonaceous,mineral,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+36,irregular,1.22,2.5,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+37,spherical,1.19,2.5,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+38,spherical,0.737,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+39,irregular,1.05,2.5,Carbonaceous,calcium sulfate,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+40,irregular,0.524,1,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+41,cluster,0.768,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+42,irregular,0.907,1,Transition metal,,Transition metal,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+43,spherical,1.2,2.5,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+44,spherical,0.959,1,Mineral,,Mineral,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+45,cluster,0.075,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+46,cluster,2.17,2.5,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+47,irregular,2.37,2.5,Quartz,,Others,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+48,irregular,2.27,2.5,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+49,spherical,0.471,1,Carbonaceous,Carbonaceous,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+50,chainlike,0.569,1,Carbonaceous,S-rich,Carbonaceous,"1. Seoul (12.15, non-event)",1,Seoul,2020,12,15,Non-event
+1,irregular,0.929,1,Carbonaceous,Mineral,Carbonaceous,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+2,irregular,0.751,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+3,irregular,0.345,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+4,irregular,1.11,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+5,irregular,1.4,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+6,irregular,0.69,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+7,irregular,2.21,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+8,irregular,2.89,4,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+9,irregular,0.873,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+10,irregular,0.876,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+11,cluster,2.51,4,Carbonaceous,Mineral,Carbonaceous,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+12,irregular,1.37,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+13,irregular,2.67,4,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+14,irregular,1.28,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+15,irregular,1.07,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+16,irregular,0.983,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+17,irregular,3.17,4,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+18,irregular,0.801,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+19,irregular,1.79,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+20,irregular,0.774,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+21,irregular,0.937,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+22,irregular,0.624,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+23,spherical,0.888,1,Carbonaceous,Mineral,Carbonaceous,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+24,irregular,0.901,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+25,irregular,0.575,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+26,irregular,1.65,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+27,irregular,1.27,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+28,irregular,2.62,4,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+29,irregular,1.49,2.5,Carbonaceous,Mineral,Carbonaceous,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+30,irregular,1,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+31,irregular,1.06,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+32,irregular,1.35,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+33,irregular,1.36,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+34,irregular,1.09,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+35,irregular,1.13,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+36,irregular,0.74,1,Transition metal,,Transition metal,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+37,irregular,1.9,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+38,irregular,0.831,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+39,irregular,1.29,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+40,irregular,0.599,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+41,cluster,1.71,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+42,irregular,1.08,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+43,irregular,0.83,1,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+44,irregular,2.47,2.5,Ca-rich,,Others,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+45,irregular,1.8,2.5,Carbonaceous,Mineral,Carbonaceous,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+46,irregular,1.41,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+47,irregular,1.13,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+48,irregular,2.71,4,Flourine compound,,Others,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+49,irregular,1.69,2.5,Mineral,,Mineral,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+50,irregular,1.28,2.5,Calcium Sulfate,,Others,"10. Beijing (12.23, event)",10,Beijing,2020,12,23,Event
+1,irregular,0.562,1,Mineral,,Mineral,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+2,irregular,1.55,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+3,irregular,0.904,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+4,irregular,2.13,2.5,Mineral,,Mineral,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+5,irregular,2.06,2.5,Carbonaceous,Mineral,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+6,irregular,1.34,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+7,cluster,0.422,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+8,cluster,0.356,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+9,cluster,1.15,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+10,irregular,1.33,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+11,spherical,1.03,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+12,cluster,1.2,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+13,spherical,0.657,1,Mineral,,Mineral,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+14,cluster,0.453,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+15,spherical,0.84,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+16,cluster,1.5,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+17,cluster,1.49,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+18,irregular,2.2,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+19,cluster,0.879,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+20,irregular,1.01,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+21,spherical,0.79,1,Mineral,,Mineral,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+22,irregular,0.971,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+23,spherical,0.688,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+24,cluster,0.887,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+25,irregular,0.957,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+26,spherical,0.688,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+27,irregular,2.58,4,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+28,irregular,1.17,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+29,irregular,1.76,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+30,cluster,0.575,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+31,cluster,1.22,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+32,irregular,1.21,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+33,spherical,0.519,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+34,irregular,0.925,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+35,cluster,0.731,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+36,cluster,1.52,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+37,irregular,0.628,1,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+38,irregular,1.46,2.5,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+39,cluster,0.941,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+40,irregular,4.64,4,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+41,cluster,3.4,4,Carbonaceous,N-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+42,irregular,1.7,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+43,irregular,1.31,2.5,Carbonaceous,n-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+44,irregular,0.991,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+45,cluster,3.38,4,Carbonaceous,n-rich,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+46,irregular,0.562,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+47,cluster,0.581,1,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+48,irregular,1.66,2.5,Carbonaceous,,Carbonaceous,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+49,irregular,1.28,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+50,irregular,1.14,2.5,N-rich,,N-rich,"11. Seosan (12.23, event)",11,Seosan,2020,12,23,Event
+1,cluster,0.797,1,Flourine compound,,Others,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+2,irregular,2.69,4,Fe-rich,,Fe-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+3,irregular,1.52,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+4,irregular,2.25,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+5,cluster,2.03,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+6,spherical,4.37,4,Mineral,,Mineral,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+7,irregular,2.05,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+8,irregular,0.933,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+9,irregular,1.14,2.5,Fly ash,,Others,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+10,spherical,0.852,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+11,cluster,1.04,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+12,irregular,1.45,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+13,cluster,2.48,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+14,cluster,1.42,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+15,spherical,0.926,1,Mineral,,Mineral,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+16,chainlike,1.17,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+17,spherical,2.71,4,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+18,chainlike,1.53,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+19,irregular,1.15,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+20,cluster,1.31,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+21,spherical,0.881,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+22,irregular,1.97,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+23,irregular,2.31,2.5,Fe-rich,,Fe-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+24,irregular,0.861,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+25,spherical,0.988,1,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+26,spherical,3.32,4,Fe-rich,,Fe-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+27,cluster,1.4,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+28,cluster,1.42,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+29,spherical,0.87,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+30,irregular,1.33,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+31,cluster,1.55,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+32,irregular,1.27,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+33,spherical,2.39,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+34,spherical,1.44,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+35,irregular,0.849,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+36,chainlike,1.14,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+37,spherical,1.25,2.5,Mineral,,Mineral,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+38,irregular,1.02,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+39,irregular,0.582,1,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+40,irregular,1.97,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+41,cluster,0.548,1,Mineral,,Mineral,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+42,irregular,1.78,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+43,spherical,0.981,1,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+44,cluster,1.65,2.5,Carbonaceous,N-rich,Carbonaceous,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+45,cluster,1.85,2.5,N-rich,,N-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+46,spherical,0.504,1,Fe-rich,,Fe-rich,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+47,spherical,0.457,1,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+48,irregular,2.37,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+49,irregular,0.665,1,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+50,irregular,1.07,2.5,Transition metal,,Transition metal,"12. Seoul (12.26, event)",12,Seoul,2020,12,26,Event
+1,irregular,2.12,2.5,Fly ash,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+2,irregular,2.3,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+3,spherical,1.16,2.5,Fly ash,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+4,irregular,1.26,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+5,irregular,3.08,4,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+6,cluster,2.18,2.5,Flourine compound,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+7,irregular,1,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+8,spherical,0.79,1,Fly ash,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+9,irregular,1.77,2.5,Mineral,,Mineral,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+10,spherical,1.33,2.5,Barite,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+11,irregular,1.29,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+12,irregular,2.73,4,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+13,irregular,1.53,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+14,irregular,0.757,1,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+15,spherical,1.01,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+16,irregular,0.983,1,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+17,irregular,0.78,1,Barite,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+18,spherical,1.41,2.5,Mineral,,Mineral,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+19,irregular,0.759,1,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+20,spherical,0.992,1,Mineral,,Mineral,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+21,irregular,1.21,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+22,irregular,2.1,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+23,irregular,1.38,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+24,irregular,1.32,2.5,Mineral,,Mineral,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+25,irregular,1.07,2.5,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+26,irregular,1.29,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+27,irregular,0.867,1,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+28,irregular,0.82,1,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+29,spherical,0.54,1,Rare earth metal,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+30,cluster,1.33,2.5,Barite,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+31,irregular,3.85,4,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+32,irregular,3.33,4,Carbonaceous,N-rich,Carbonaceous,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+33,irregular,2.06,2.5,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+34,irregular,1.6,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+35,spherical,0.609,1,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+36,irregular,1.21,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+37,cluster,1.52,2.5,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+38,spherical,0.648,1,Barite,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+39,irregular,1.59,2.5,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+40,irregular,1.29,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+41,irregular,0.908,1,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+42,chainlike,2.19,2.5,Fly ash,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+43,spherical,0.751,1,N-rich,,N-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+44,irregular,1.09,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+45,cluster,1.2,2.5,Flourine compound,,Others,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+46,cluster,1.87,2.5,Carbonaceous,Mineral,Carbonaceous,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+47,irregular,2.07,2.5,Transition metal,,Transition metal,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+48,spherical,1.01,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+49,spherical,1.18,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+50,cluster,2.37,2.5,Fe-rich,,Fe-rich,"13. Beijing (12.26, event)",13,Beijing,2020,12,26,Event
+1,spherical,1.44,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+2,irregular,2.88,4,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+3,irregular,1.16,2.5,Transition metal,,Transition metal,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+4,spherical,0.261,1,Fly ash,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+5,irregular,0.967,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+6,spherical,0.6,1,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+7,spherical,0.655,1,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+8,cluster,0.753,1,Fly ash,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+9,cluster,1.31,2.5,Carbonaceous,N-rich,Carbonaceous,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+10,cluster,0.75,1,Fly ash,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+11,irregular,0.983,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+12,irregular,1.25,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+13,spherical,0.864,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+14,cluster,0.97,1,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+15,irregular,0.768,1,Fly ash,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+16,irregular,1.18,2.5,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+17,irregular,0.853,1,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+18,spherical,0.48,1,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+19,irregular,0.829,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+20,irregular,3.7,4,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+21,irregular,3.22,4,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+22,irregular,1.12,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+23,irregular,1.01,2.5,Transition metal,,Transition metal,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+24,irregular,1.09,2.5,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+25,irregular,1.02,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+26,irregular,2.62,4,Rare earth metal,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+27,spherical,2.24,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+28,irregular,1.22,2.5,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+29,cluster,2.43,2.5,Transition metal,,Transition metal,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+30,spherical,0.576,1,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+31,irregular,1.04,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+32,spherical,1.8,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+33,cluster,2.04,2.5,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+34,irregular,2.08,2.5,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+35,irregular,2.87,4,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+36,irregular,1.18,2.5,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+37,irregular,0.627,1,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+38,irregular,1.24,2.5,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+39,irregular,0.419,1,Transition metal,,Transition metal,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+40,irregular,0.666,1,Fly ash,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+41,spherical,0.915,1,Fe-rich,,Fe-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+42,irregular,0.628,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+43,spherical,0.49,1,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+44,irregular,3.29,4,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+45,irregular,0.808,1,Transition metal,,Transition metal,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+46,irregular,4.67,4,Flourine compound,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+47,cluster,7,4,S-rich,,Others,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+48,irregular,0.836,1,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+49,spherical,2.15,2.5,N-rich,,N-rich,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+50,irregular,1.41,2.5,Mineral,,Mineral,"14. Seosan (12.26, event)",14,Seosan,2020,12,26,Event
+1,irregular,2.05,2.5,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+2,irregular,1.78,2.5,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+3,irregular,1.52,2.5,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+4,cluster,3.04,4,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+5,irregular,1.5,2.5,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+6,spherical,2,2.5,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+7,spherical,4.15,4,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+8,spherical,0.753,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+9,spherical,0.524,1,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+10,irregular,0.441,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+11,irregular,0.849,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+12,irregular,0.818,1,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+13,spherical,0.413,1,Fly ash,,Others,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+14,irregular,0.755,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+15,irregular,1.13,2.5,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+16,irregular,0.375,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+17,cluster,0.992,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+18,spherical,0.693,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+19,irregular,1.07,2.5,Carbonaceous,Transition metal,Carbonaceous,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+20,irregular,0.674,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+21,spherical,0.313,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+22,irregular,0.915,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+23,spherical,1.11,2.5,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+24,spherical,0.215,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+25,irregular,0.512,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+26,cluster,2.44,2.5,Carbonaceous,N-rich,Carbonaceous,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+27,chainlike,1.53,2.5,S-rich,,Others,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+28,irregular,0.873,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+29,cluster,0.854,1,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+30,irregular,0.631,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+31,irregular,0.712,1,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+32,spherical,0.688,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+33,cluster,1.63,2.5,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+34,irregular,0.681,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+35,cluster,0.665,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+36,irregular,1.05,2.5,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+37,irregular,0.588,1,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+38,spherical,0.392,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+39,spherical,0.825,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+40,irregular,0.523,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+41,irregular,1.84,2.5,Mineral,,Mineral,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+42,irregular,0.86,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+43,cluster,1.56,2.5,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+44,spherical,0.221,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+45,spherical,0.328,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+46,spherical,0.402,1,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+47,irregular,1.38,2.5,N-rich,,N-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+48,irregular,1.03,2.5,Transition metal,,Transition metal,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+49,spherical,0.762,1,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+50,irregular,1.08,2.5,Fe-rich,,Fe-rich,"15. Seoul (12.27, event)",15,Seoul,2020,12,27,Event
+1,irregular,0.671,1,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+2,irregular,1.57,2.5,Carbonaceous,Fe-rich,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+3,irregular,1.46,2.5,Carbonaceous,Fe-rich,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+4,irregular,1.41,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+5,irregular,1.62,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+11,irregular,1.28,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+12,irregular,2.27,2.5,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+13,irregular,2.22,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+16,irregular,1.39,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+17,irregular,1.68,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+18,irregular,0.923,1,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+20,irregular,0.927,1,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+21,irregular,1.11,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+22,irregular,1.1,2.5,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+23,irregular,1.92,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+24,irregular,1.17,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+25,irregular,1.55,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+26,irregular,1.23,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+27,irregular,2.41,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+30,irregular,1.53,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+31,irregular,0.774,1,Fly ash,,Others,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+32,irregular,0.909,1,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+33,irregular,2.06,2.5,Fe-rich,,Fe-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+34,irregular,1.6,2.5,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+35,spherical,0.737,1,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+35,spherical,0.609,1,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+36,irregular,2.1,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+36,irregular,1.21,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+37,cluster,1.34,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+37,cluster,1.52,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+38,spherical,0.648,1,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+39,irregular,1.59,2.5,Carbonaceous,N-rich,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+40,irregular,0.865,1,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+40,irregular,1.29,2.5,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+41,irregular,0.908,1,Carbonaceous,Fe-rich,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+42,chainlike,2.19,2.5,Fly ash,,Others,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+43,spherical,0.751,1,Fly ash,,Others,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+44,irregular,0.313,1,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+44,irregular,1.09,2.5,N-rich,,N-rich,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+45,cluster,0.84,1,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+45,cluster,1.2,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+46,cluster,1.16,2.5,Carbonaceous,Mineral,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+46,cluster,1.87,2.5,Carbonaceous,Mineral,Carbonaceous,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+47,irregular,2.07,2.5,Transition metal,,Transition metal,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+48,spherical,1.59,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+48,spherical,1.01,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+49,spherical,1.61,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+49,spherical,1.18,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+50,cluster,1.26,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+50,cluster,2.37,2.5,Mineral,,Mineral,"16. Beijing (12.27, event)",16,Beijing,2020,12,27,Event
+1,spherical,0.61,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+2,irregular,1.71,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+3,spherical,1.02,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+4,spherical,0.495,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+5,spherical,0.314,1,Transition metal,,Transition metal,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+6,spherical,0.715,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+7,irregular,1.23,2.5,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+8,irregular,1.41,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+9,irregular,1.79,2.5,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+10,cluster,0.839,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+11,irregular,1.47,2.5,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+12,spherical,0.682,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+13,irregular,1.34,2.5,Transition metal,,Transition metal,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+14,irregular,1.48,2.5,Transition metal,,Transition metal,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+15,irregular,1.22,2.5,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+16,irregular,1.28,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+17,irregular,0.585,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+18,irregular,1.1,2.5,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+19,irregular,1.41,2.5,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+20,spherical,0.55,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+21,spherical,0.814,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+22,spherical,0.454,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+23,spherical,0.456,1,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+24,irregular,1.53,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+25,cluster,1.34,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+26,spherical,1.83,2.5,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+27,irregular,1.51,2.5,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+28,spherical,0.505,1,Transition metal,,Transition metal,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+29,spherical,0.779,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+30,spherical,0.847,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+31,spherical,0.833,1,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+32,irregular,1.02,2.5,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+33,irregular,1.39,2.5,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+34,irregular,1.38,2.5,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+35,cluster,2.69,4,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+36,irregular,0.852,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+37,irregular,0.777,1,Mineral,,Mineral,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+38,cluster,0.588,1,Carbonaceous,Carbonaceous,Carbonaceous,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+39,irregular,0.626,1,Transition metal,,Transition metal,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+40,irregular,0.93,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+41,spherical,0.666,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+42,spherical,2.27,2.5,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+43,irregular,0.729,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+44,irregular,0.827,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+45,chainlike,0.691,1,Carbonaceous,N-rich,Carbonaceous,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+46,cluster,1.25,2.5,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+47,spherical,0.655,1,Fe-rich,,Fe-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+48,irregular,0.948,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+49,cluster,1.09,2.5,Fly ash,,Others,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+50,irregular,0.919,1,N-rich,,N-rich,"17. Seosan (12.27, event)",17,Seosan,2020,12,27,Event
+1,irregular,2.09,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+2,spherical,0.708,1,Fly ash,,Others,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+3,irregular,0.911,1,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+4,irregular,0.718,1,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+5,irregular,1.26,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+6,irregular,0.584,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+7,irregular,1.4,2.5,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+8,irregular,1.18,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+9,irregular,1.95,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+10,irregular,1.64,2.5,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+11,spherical,0.483,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+12,irregular,1.14,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+13,irregular,1.15,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+14,spherical,0.259,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+15,irregular,0.911,1,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+16,irregular,1.13,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+17,irregular,1.08,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+18,irregular,1.48,2.5,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+19,spherical,2.06,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+20,irregular,1.15,2.5,N-rich,,N-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+21,irregular,3.12,4,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+22,irregular,2.05,2.5,Carbonaceous,Fe-rich,Carbonaceous,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+23,spherical,0.388,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+24,irregular,1.11,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+25,irregular,0.879,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+26,irregular,0.697,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+27,irregular,0.541,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+28,irregular,0.539,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+29,irregular,1.63,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+30,spherical,0.616,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+31,spherical,0.962,1,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+32,irregular,0.594,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+33,spherical,0.525,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+34,irregular,1.67,2.5,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+35,irregular,1.32,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+36,irregular,1.61,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+37,irregular,1.26,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+38,chainlike,0.668,1,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+39,chainlike,0.78,1,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+40,irregular,1.5,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+41,spherical,0.621,1,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+42,irregular,1.37,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+43,irregular,0.912,1,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+44,irregular,1.23,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+45,irregular,0.817,1,N-rich,,N-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+46,irregular,0.925,1,Rare earth metal,,Others,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+47,irregular,0.983,1,Mineral,,Mineral,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+48,irregular,1.23,2.5,Fe-rich,,Fe-rich,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+49,irregular,0.984,1,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+50,irregular,1.53,2.5,Transition metal,,Transition metal,"18. Seoul (01.13, event)",18,Seoul,2021,1,13,Event
+1,irregular,0.545,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+2,irregular,0.404,1,N-rich,,N-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+3,irregular,1.3,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+4,irregular,0.807,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+5,spherical,0.663,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+6,irregular,0.888,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+7,spherical,0.819,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+8,irregular,0.787,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+9,irregular,0.479,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+10,irregular,0.778,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+11,irregular,1.12,2.5,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+12,irregular,0.4,1,Fly ash,,Others,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+13,irregular,0.655,1,Ca-rich,,Others,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+14,spherical,0.451,1,Fly ash,,Others,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+15,spherical,0.854,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+16,spherical,0.792,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+17,spherical,0.621,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+18,irregular,0.952,1,Rare earth metal,,Others,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+19,irregular,0.595,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+20,spherical,0.663,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+21,irregular,0.795,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+22,spherical,0.595,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+23,spherical,0.776,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+24,irregular,0.98,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+25,irregular,0.64,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+26,spherical,0.768,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+27,cluster,1.61,2.5,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+28,cluster,0.786,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+29,irregular,0.382,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+30,irregular,0.629,1,Rare earth metal,,Others,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+31,irregular,0.662,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+32,cluster,0.681,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+33,irregular,0.336,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+34,irregular,1.61,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+35,irregular,0.745,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+36,irregular,1.64,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+37,irregular,0.939,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+38,irregular,0.635,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+39,spherical,0.422,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+40,irregular,1.46,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+41,irregular,1.19,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+42,irregular,1.27,2.5,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+43,irregular,0.724,1,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+44,irregular,1.58,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+45,cluster,2.26,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+46,spherical,0.378,1,N-rich,,N-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+47,irregular,1.16,2.5,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+48,cluster,1.33,2.5,Mineral,,Mineral,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+49,spherical,0.575,1,Fe-rich,,Fe-rich,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+50,irregular,0.398,1,Transition metal,,Transition metal,"19. Beijing (01.13, event)",19,Beijing,2021,1,13,Event
+1,irregular,0.431,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+2,spherical,0.776,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+3,irregular,0.616,1,Carbonaceous,N-rich,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+4,cluster,0.454,1,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+5,irregular,1.08,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+6,irregular,0.338,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+7,irregular,2.06,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+8,irregular,0.81,1,Carbonaceous,,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+9,irregular,0.4,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+10,cluster,0.074,1,Carbonaceous,,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+11,cluster,0.565,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+12,spherical,1.05,2.5,Carbonaceous,mineral,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+13,spherical,1.19,2.5,Flourine compound,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+14,cluster,1.71,2.5,Carbonaceous,mineral,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+15,cluster,0.999,1,Flourine compound,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+16,irregular,1.83,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+17,irregular,1.59,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+18,irregular,2.13,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+19,irregular,1.47,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+20,irregular,2.03,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+21,irregular,0.87,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+22,irregular,2.23,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+23,irregular,1.37,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+24,irregular,1.71,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+25,irregular,0.989,1,Carbonaceous,mineral,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+26,cluster,0.868,1,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+27,irregular,0.338,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+28,irregular,0.888,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+29,irregular,1.23,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+30,irregular,1.4,2.5,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+31,spherical,0.485,1,Carbonaceous,mineral,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+32,irregular,1.06,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+33,irregular,1.17,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+34,irregular,2.1,2.5,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+35,irregular,1.52,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+36,cluster,0.55,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+37,irregular,0.847,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+38,irregular,1.65,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+39,irregular,0.912,1,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+40,irregular,2.48,2.5,Calcium Sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+41,spherical,0.323,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+42,cluster,2.16,2.5,sulfate,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+43,cluster,0.572,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+44,irregular,1.4,2.5,Flourine compound,,Others,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+45,irregular,0.824,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+46,spherical,1.02,2.5,Carbonaceous,mineral,Carbonaceous,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+47,spherical,0.566,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+48,cluster,2.09,2.5,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+49,irregular,0.677,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+50,irregular,0.557,1,Mineral,,Mineral,"2. Beijing (12.15, non-event)",2,Beijing,2020,12,15,Non-event
+1,irregular,1.09,2.5,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+2,spherical,0.688,1,N-rich,,N-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+3,spherical,0.717,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+4,irregular,0.533,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+5,spherical,0.338,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+6,irregular,0.822,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+7,spherical,0.615,1,Fly ash,,Others,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+8,irregular,1.04,2.5,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+9,irregular,1.16,2.5,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+10,irregular,1.14,2.5,N-rich,,N-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+11,irregular,0.455,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+12,cluster,0.292,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+13,cluster,0.416,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+14,irregular,0.391,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+15,irregular,1.08,2.5,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+16,irregular,0.98,1,Rare earth metal,,Others,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+17,irregular,1.19,2.5,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+18,spherical,0.501,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+19,spherical,0.383,1,N-rich,,N-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+20,spherical,0.567,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+21,irregular,0.74,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+22,irregular,0.879,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+23,spherical,0.898,1,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+24,irregular,1.52,2.5,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+25,irregular,1.64,2.5,Rare earth metal,,Others,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+26,irregular,1.66,2.5,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+27,spherical,0.257,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+28,cluster,0.803,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+29,spherical,0.41,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+30,irregular,0.576,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+31,spherical,0.709,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+32,irregular,0.977,1,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+33,spherical,0.582,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+34,irregular,0.783,1,Rare earth metal,,Others,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+35,spherical,0.33,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+36,irregular,0.929,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+37,spherical,0.695,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+38,irregular,1.57,2.5,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+39,spherical,0.828,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+40,irregular,1.22,2.5,Rare earth metal,,Others,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+41,irregular,2.12,2.5,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+42,irregular,0.376,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+43,irregular,1.9,2.5,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+44,spherical,0.365,1,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+45,spherical,0.888,1,Mineral,,Mineral,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+46,irregular,1.04,2.5,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+47,irregular,0.784,1,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+48,irregular,1.66,2.5,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+49,irregular,1.11,2.5,Fe-rich,,Fe-rich,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+50,irregular,0.586,1,Transition metal,,Transition metal,"20. Seosan (01.13, event)",20,Seosan,2021,1,13,Event
+1,irregular,2.22,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+2,spherical,1.2,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+3,irregular,1.57,2.5,N-rich,,N-rich,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+4,irregular,2.25,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+5,spherical,1.34,2.5,Carbonaceous,Ca-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+6,chainlike,1.63,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+7,irregular,1.7,2.5,Fe-rich,,Fe-rich,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+8,irregular,2.74,4,Mineral,,Mineral,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+9,irregular,1.26,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+10,spherical,1.65,2.5,Ca-rich,,Others,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+11,irregular,1.32,2.5,Carbonaceous,Transition metal,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+12,chainlike,1.92,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+13,irregular,0.875,1,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+14,spherical,2.49,2.5,Mineral,,Mineral,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+15,cluster,3.35,4,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+16,irregular,1.23,2.5,Carbonaceous,Mineral,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+17,cluster,1.6,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+18,cluster,2.41,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+19,irregular,2.45,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+20,chainlike,1.67,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+21,irregular,0.916,1,Transition metal,,Transition metal,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+22,irregular,1.51,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+23,irregular,1.93,2.5,Carbonaceous,Mineral,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+24,irregular,2.2,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+25,irregular,1.59,2.5,Fe-rich,,Fe-rich,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+26,irregular,1.21,2.5,Carbonaceous,Fe-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+27,cluster,2.18,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+28,cluster,2.37,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+29,spherical,1.59,2.5,Mineral,,Mineral,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+30,spherical,1.16,2.5,Carbonaceous,Ca-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+31,spherical,1.47,2.5,Carbonaceous,Fe-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+32,irregular,1.31,2.5,Transition metal,,Transition metal,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+33,irregular,1.53,2.5,Transition metal,,Transition metal,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+34,spherical,1.74,2.5,Mineral,,Mineral,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+35,irregular,1.91,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+36,spherical,1.44,2.5,Carbonaceous,Mineral,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+37,spherical,1.86,2.5,Mineral,,Mineral,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+38,irregular,2.39,2.5,Carbonaceous,Sulfate,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+39,spherical,1.42,2.5,Carbonaceous,Ca-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+40,irregular,1.96,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+41,irregular,1.84,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+42,irregular,1.58,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+43,spherical,0.778,1,Carbonaceous,Fe-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+44,irregular,2.16,2.5,Cl-rich,,Others,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+45,spherical,2.17,2.5,Ca-rich,,Others,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+46,cluster,2.02,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+47,cluster,2.59,4,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+48,cluster,1.6,2.5,Carbonaceous,Mineral,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+49,spherical,1.18,2.5,Fe-rich,,Fe-rich,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+50,irregular,1.62,2.5,Carbonaceous,N-rich,Carbonaceous,"21. Ulanbatar (12.23, event)",21,Ulanbatar,2020,12,23,Event
+1,spherical,0.993,1,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+2,chainlike,3,4,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+3,spherical,1.13,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+4,irregular,0.948,1,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+5,irregular,0.997,1,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+6,spherical,1.01,2.5,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+7,cluster,1.15,2.5,Carbonaceous,Fe-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+8,irregular,1.6,2.5,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+9,spherical,1.12,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+10,irregular,1.34,2.5,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+11,irregular,1.55,2.5,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+12,chainlike,2.63,4,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+13,spherical,1.56,2.5,Mineral,,Mineral,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+14,irregular,1.18,2.5,Carbonaceous,Fe-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+15,spherical,1.42,2.5,Mineral,,Mineral,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+16,irregular,1.27,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+17,cluster,2.45,2.5,Carbonaceous,Ca-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+18,spherical,1.2,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+19,irregular,1.57,2.5,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+20,irregular,2.33,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+21,spherical,0.702,1,Carbonaceous,Fe-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+22,irregular,2.41,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+23,spherical,2.65,4,Mineral,,Mineral,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+24,irregular,0.628,1,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+25,spherical,1.09,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+26,spherical,0.672,1,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+27,spherical,1.35,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+28,cluster,2.22,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+29,chainlike,2.22,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+30,irregular,1.12,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+31,irregular,3.08,4,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+32,spherical,0.882,1,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+33,spherical,2.46,2.5,Calcium Sulfate,,Others,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+34,irregular,2.32,2.5,Carbonaceous,chloride paritcles,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+35,spherical,2.83,4,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+36,cluster,2.15,2.5,Carbonaceous,N-rich,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+37,irregular,5.84,4,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+38,cluster,9.1,4,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+39,irregular,1.29,2.5,Transition metal,,Transition metal,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+40,irregular,0.754,1,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+41,spherical,2.29,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+42,cluster,4.42,4,Carbonaceous,sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+43,spherical,2.96,4,Carbonaceous,sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+44,irregular,2,2.5,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+45,irregular,1.5,2.5,Carbonaceous,Mineral,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+46,irregular,2.71,4,Mineral,,Mineral,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+47,cluster,3.35,4,Carbonaceous,calcium sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+48,irregular,4.07,4,Transition metal,,Transition metal,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+49,chainlike,2.67,4,Carbonaceous,sulfate,Carbonaceous,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+50,irregular,1.62,2.5,Fe-rich,,Fe-rich,"22. Ulanbatar (12.26, event)",22,Ulanbatar,2020,12,26,Event
+1,spherical,0.686,1,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+2,cluster,1.54,2.5,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+3,spherical,1.2,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+4,cluster,0.739,1,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+5,irregular,1.09,2.5,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+6,cluster,0.743,1,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+7,irregular,1.31,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+8,irregular,1.64,2.5,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+9,spherical,1.17,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+10,spherical,1.56,2.5,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+11,irregular,1.07,2.5,Carbonaceous,,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+12,irregular,4.18,4,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+13,irregular,0.301,1,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+14,irregular,2.52,4,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+15,irregular,0.767,1,Carbonaceous,N-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+16,irregular,0.789,1,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+17,chainlike,2.12,2.5,Carbonaceous,Sulfate,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+18,irregular,0.36,1,Carbonaceous,Transition metal,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+19,cluster,1.26,2.5,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+20,cluster,2.47,2.5,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+21,cluster,1.59,2.5,S-rich,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+22,irregular,1.41,2.5,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+23,irregular,1.46,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+24,spherical,2.66,4,Fly ash,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+25,irregular,1.5,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+26,irregular,0.765,1,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+27,cluster,2.29,2.5,Carbonaceous,S-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+28,irregular,3.5,4,Carbonaceous,Flourine compound,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+29,irregular,0.776,1,Transition metal,,Transition metal,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+30,spherical,1.69,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+31,cluster,3.38,4,Carbonaceous,,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+32,cluster,0.851,1,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+33,irregular,3.08,4,Carbonaceous,,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+34,irregular,2.22,2.5,Calcium Sulfate,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+35,spherical,0.951,1,Fly ash,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+36,irregular,3.91,4,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+37,spherical,1.04,2.5,Carbonaceous,Mineral,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+38,irregular,1.75,2.5,Cl-rich,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+39,irregular,1.1,2.5,Transition metal,,Transition metal,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+40,irregular,1.12,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+41,irregular,2.37,2.5,Carbonaceous,N-rich,Carbonaceous,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+42,irregular,0.924,1,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+43,irregular,0.509,1,Transition metal,,Transition metal,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+44,spherical,1.06,2.5,Fe-rich,,Fe-rich,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+45,spherical,2.12,2.5,Fly ash,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+46,irregular,2.31,2.5,Mineral,,Mineral,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+47,spherical,4.55,4,Fly ash,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+48,irregular,7.08,4,Transition metal,,Transition metal,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+49,irregular,3.32,4,Transition metal,,Transition metal,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+50,irregular,3.24,4,Cl-rich,,Others,"23. Ulanbatar (12.27, non-event)",23,Ulanbatar,2020,12,27,Non-event
+1,spherical,0.687,1,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+2,spherical,0.518,1,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+3,cluster,1.11,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+4,spherical,1.52,2.5,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+5,irregular,2.99,4,S-rich,,Others,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+6,irregular,2.25,2.5,S-rich,,Others,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+7,cluster,2.04,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+8,cluster,2.72,4,Carbonaceous,Flourine compound,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+9,cluster,2.03,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+10,spherical,1.1,2.5,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+11,spherical,0.574,1,Carbonaceous,Fly ash,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+12,cluster,2.77,4,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+13,irregular,0.82,1,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+14,cluster,1.92,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+15,irregular,1.29,2.5,Carbonaceous,Flourine compound,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+16,spherical,0.964,1,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+17,irregular,2.13,2.5,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+18,irregular,0.848,1,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+19,spherical,1.98,2.5,Ca-rich,,Others,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+20,cluster,4.01,4,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+21,cluster,6.15,4,Carbonaceous,Fe-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+22,irregular,1.59,2.5,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+23,spherical,0.715,1,Carbonaceous,Fly ash,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+24,cluster,2.37,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+25,irregular,1.93,2.5,Carbonaceous,Flourine compound,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+26,irregular,1.17,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+27,cluster,4.48,4,N-rich,,N-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+28,cluster,4.7,4,Fly ash,,Others,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+29,irregular,0.784,1,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+30,irregular,1.17,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+31,irregular,7.78,4,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+32,cluster,5,4,Carbonaceous,Fe-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+33,irregular,3.11,4,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+34,irregular,1.52,2.5,Carbonaceous,Fly ash,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+35,irregular,5.85,4,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+36,spherical,2.26,2.5,Mineral,,Mineral,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+37,irregular,2.8,4,Mineral,,Mineral,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+38,irregular,2.27,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+39,cluster,2.97,4,Carbonaceous,Flourine compound,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+40,spherical,1.36,2.5,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+41,chainlike,1.73,2.5,Carbonaceous,Sulfate,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+42,irregular,5.58,4,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+43,cluster,3.87,4,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+44,cluster,1.77,2.5,Mineral,,Mineral,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+45,spherical,0.668,1,Carbonaceous,Fly ash,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+46,irregular,0.651,1,Carbonaceous,Fe-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+47,cluster,0.742,1,Carbonaceous,N-rich,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+48,spherical,0.629,1,Carbonaceous,Mineral,Carbonaceous,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+49,spherical,1.3,2.5,Ca-rich,,Others,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+50,cluster,5.14,4,Fe-rich,,Fe-rich,"24. Ulanbatar (01.13, Event)",24,Ulanbatar,2021,1,13,Event
+1,irregular,1.97,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+2,irregular,1.52,2.5,Carbonaceous,N-rich,Carbonaceous,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+3,irregular,1.2,2.5,Ca-rich,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+4,cluster,0.715,1,Calcium Sulfate,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+5,cluster,0.751,1,Calcium Sulfate,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+6,cluster,1.27,2.5,N-rich,,N-rich,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+7,cluster,0.72,1,S-rich,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+8,irregular,0.806,1,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+9,cluster,0.36,1,N-rich,,N-rich,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+10,cluster,0.831,1,N-rich,,N-rich,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+11,irregular,0.782,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+12,spherical,0.544,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+13,spherical,0.373,1,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+14,cluster,0.477,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+15,irregular,0.937,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+16,irregular,1.08,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+17,spherical,0.848,1,Fly ash,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+18,cluster,0.717,1,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+19,irregular,2.43,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+20,irregular,1.36,2.5,N-rich,,N-rich,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+21,irregular,1.6,2.5,Calcium Sulfate,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+22,irregular,0.855,1,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+23,irregular,1.83,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+24,cluster,1.95,2.5,Calcium Sulfate,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+25,irregular,1.31,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+26,irregular,0.774,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+27,irregular,1.46,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+28,irregular,1.31,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+29,irregular,1.36,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+30,irregular,0.78,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+31,irregular,1.81,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+32,irregular,1.69,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+33,irregular,2.18,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+34,irregular,0.774,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+35,irregular,3.79,4,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+36,irregular,1.07,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+37,irregular,0.862,1,Carbonaceous,N-rich,Carbonaceous,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+38,cluster,1.28,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+39,cluster,1.07,2.5,Calcium Sulfate,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+40,irregular,0.568,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+41,irregular,1.59,2.5,Ca-rich,,Others,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+42,irregular,1.33,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+43,irregular,1.75,2.5,Mineral,,Mineral,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+44,irregular,0.873,1,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+45,irregular,1.16,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+46,irregular,1.39,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+47,irregular,1.15,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+48,irregular,1.18,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+49,irregular,1.07,2.5,N-rich,,N-rich,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+50,irregular,1.03,2.5,Transition metal,,Transition metal,"26. Noto(12.22, event)",26,Noto,2020,12,22,Event
+1,cluster,1.29,2.5,Carbonaceous,N-rich,Carbonaceous,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+2,cluster,0.813,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+3,cluster,1.47,2.5,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+4,cluster,0.647,1,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+5,cluster,1.72,2.5,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+6,cluster,1.02,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+7,irregular,0.747,1,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+8,irregular,1.87,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+9,spherical,0.897,1,Fly ash,,Others,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+10,irregular,1.3,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+11,irregular,2.06,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+12,irregular,2.77,4,S-rich,,Others,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+13,irregular,2.26,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+14,irregular,2.31,2.5,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+15,irregular,1.1,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+16,irregular,0.65,1,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+17,irregular,0.974,1,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+18,cluster,1.04,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+19,cluster,2.66,4,Carbonaceous,N-rich,Carbonaceous,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+20,irregular,1.59,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+21,irregular,0.756,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+22,cluster,1.43,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+23,cluster,1.51,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+24,irregular,0.894,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+25,cluster,1.35,2.5,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+26,irregular,1.64,2.5,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+27,cluster,1.18,2.5,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+28,cluster,1.36,2.5,Calcium Sulfate,,Others,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+29,irregular,1.08,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+30,cluster,0.893,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+31,spherical,0.932,1,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+32,irregular,1.54,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+33,irregular,1.69,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+34,cluster,0.757,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+35,irregular,0.564,1,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+36,cluster,1.09,2.5,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+37,irregular,1.42,2.5,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+38,cluster,0.931,1,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+39,chainlike,1.53,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+40,irregular,1.22,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+41,irregular,2.39,2.5,N-rich,,N-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+42,irregular,0.999,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+43,spherical,0.877,1,Mineral,,Mineral,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+44,irregular,2.86,4,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+45,cluster,0.952,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+46,irregular,1,2.5,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+47,spherical,0.952,1,Fe-rich,,Fe-rich,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+48,spherical,1.37,2.5,Carbonaceous,N-rich,Carbonaceous,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+49,irregular,0.631,1,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+50,irregular,1.18,2.5,Transition metal,,Transition metal,"27. Noto(12.23, event)",27,Noto,2020,12,23,Event
+1,irregular,1.42,2.5,Calcium Sulfate,,Others,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+2,irregular,0.868,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+3,spherical,0.968,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+4,irregular,2.47,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+5,irregular,1.35,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+6,irregular,2.49,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+7,spherical,2.66,4,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+8,irregular,2.84,4,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+9,irregular,1.12,2.5,Calcium Sulfate,,Others,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+10,irregular,1.22,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+11,irregular,1.59,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+12,spherical,0.901,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+13,irregular,1.15,2.5,Fe-rich,,Fe-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+14,irregular,1.72,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+15,spherical,1.09,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+16,irregular,1.77,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+17,spherical,1.03,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+18,cluster,1.01,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+19,irregular,0.419,1,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+20,spherical,1.44,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+21,irregular,1.12,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+22,irregular,1.57,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+23,spherical,0.722,1,Fe-rich,,Fe-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+24,cluster,1.38,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+25,cluster,1.19,2.5,Calcium Sulfate,,Others,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+26,spherical,0.903,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+27,irregular,1.62,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+28,cluster,0.65,1,Transition metal,,Transition metal,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+29,irregular,1.9,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+30,irregular,4.83,4,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+31,irregular,2.67,4,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+32,cluster,1.75,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+33,cluster,0.762,1,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+34,cluster,1.65,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+35,spherical,0.953,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+36,irregular,1.16,2.5,Calcium Sulfate,,Others,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+37,irregular,1.44,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+38,irregular,3.16,4,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+39,irregular,0.887,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+40,cluster,2.73,4,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+41,cluster,1.6,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+42,cluster,1.7,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+43,spherical,0.951,1,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+44,cluster,2.05,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+45,irregular,1.01,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+46,cluster,1.64,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+47,spherical,0.912,1,Fe-rich,,Fe-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+48,irregular,1.93,2.5,Mineral,,Mineral,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+49,cluster,1.03,2.5,Transition metal,,Transition metal,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+50,irregular,1.34,2.5,N-rich,,N-rich,"28. Noto(12.26, event)",28,Noto,2020,12,26,Event
+1,irregular,1.87,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+2,irregular,0.965,1,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+3,irregular,2.04,2.5,Fly ash,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+4,irregular,0.898,1,Calcium Sulfate,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+5,cluster,1.35,2.5,Calcium Sulfate,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+6,irregular,0.982,1,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+7,cluster,0.87,1,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+8,cluster,1.07,2.5,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+9,cluster,2.17,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+10,irregular,3.26,4,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+11,irregular,1.4,2.5,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+12,chainlike,1.8,2.5,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+13,irregular,0.769,1,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+14,irregular,1.04,2.5,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+15,cluster,3.35,4,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+16,irregular,2.06,2.5,Carbonaceous,N-rich,Carbonaceous,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+17,irregular,1.76,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+18,irregular,2.96,4,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+19,cluster,0.826,1,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+20,cluster,4.28,4,Carbonaceous,N-rich,Carbonaceous,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+21,cluster,1.71,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+22,cluster,1.68,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+23,irregular,1.38,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+24,cluster,4.53,4,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+25,irregular,2.55,4,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+26,irregular,0.533,1,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+27,irregular,3.41,4,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+28,irregular,1.25,2.5,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+29,irregular,1.13,2.5,N-rich,,N-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+30,cluster,1.21,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+31,irregular,0.918,1,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+32,irregular,1.67,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+33,cluster,1.92,2.5,Calcium Sulfate,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+34,cluster,1.93,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+35,cluster,1.17,2.5,Calcium Sulfate,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+36,cluster,1.02,2.5,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+37,cluster,1.49,2.5,Calcium Sulfate,,Others,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+38,cluster,1.27,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+39,irregular,0.746,1,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+40,irregular,0.912,1,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+41,spherical,0.541,1,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+42,spherical,1.03,2.5,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+43,irregular,1.5,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+44,cluster,0.407,1,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+45,irregular,1.65,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+46,irregular,1.12,2.5,Mineral,,Mineral,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+47,spherical,0.61,1,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+48,irregular,1.21,2.5,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+49,spherical,0.633,1,Transition metal,,Transition metal,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+50,cluster,0.465,1,Fe-rich,,Fe-rich,"29. Noto(12.27, event)",29,Noto,2020,12,27,Event
+1,cluster,3.91,4,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+2,cluster,0.702,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+3,spherical,0.822,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+4,cluster,0.831,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+5,cluster,0.866,1,Calcium Sulfate,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+6,cluster,0.853,1,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+7,irregular,1.9,2.5,S-rich,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+8,irregular,1.32,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+9,irregular,0.544,1,S-rich,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+10,cluster,0.786,1,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+11,cluster,1.38,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+12,spherical,0.742,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+13,irregular,0.449,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+14,spherical,0.54,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+15,irregular,1.35,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+16,spherical,0.829,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+17,cluster,1.14,2.5,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+18,irregular,1.08,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+19,spherical,0.575,1,S-rich,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+20,irregular,1.19,2.5,Fe-rich,,Fe-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+21,irregular,2.44,2.5,Carbonaceous,carbonaceous,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+22,spherical,0.802,1,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+23,irregular,0.627,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+24,cluster,0.787,1,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+25,irregular,0.89,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+26,spherical,0.513,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+27,cluster,1.1,2.5,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+28,irregular,0.807,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+29,irregular,0.851,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+30,cluster,1.63,2.5,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+31,irregular,1.14,2.5,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+32,irregular,2.29,2.5,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+33,irregular,0.802,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+34,irregular,0.885,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+35,spherical,0.634,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+36,irregular,0.963,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+37,cluster,0.683,1,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+38,irregular,1.1,2.5,Carbonaceous,S-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+39,irregular,0.714,1,Calcium Sulfate,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+40,irregular,1.73,2.5,Calcium Sulfate,,Others,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+41,spherical,1.13,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+42,irregular,1.17,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+43,irregular,0.771,1,Carbonaceous,N-rich,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+44,irregular,0.941,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+45,irregular,1.98,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+46,cluster,0.947,1,Carbonaceous,,Carbonaceous,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+47,irregular,1.59,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+48,cluster,0.952,1,N-rich,,N-rich,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+49,irregular,2.1,2.5,Mineral,,Mineral,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+50,irregular,0.692,1,Transition metal,,Transition metal,"3. Seosan (12.15, non-event)",3,Seosan,2020,12,15,Non-event
+1,irregular,2.49,2.5,Carbonaceous,N-rich,Carbonaceous,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+2,cluster,1.49,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+3,irregular,0.888,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+4,irregular,1.12,2.5,Transition metal,,Transition metal,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+5,irregular,1.58,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+6,irregular,0.556,1,Transition metal,,Transition metal,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+7,irregular,1.68,2.5,Transition metal,,Transition metal,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+8,irregular,2.28,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+9,irregular,1.69,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+10,irregular,1.3,2.5,sulfate,,Others,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+11,spherical,1.05,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+12,irregular,1.8,2.5,Carbonaceous,Fe-rich,Carbonaceous,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+13,cluster,0.497,1,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+14,cluster,2.96,4,Ca-rich,,Others,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+15,spherical,1.33,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+16,irregular,0.698,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+17,cluster,2.72,4,Carbonaceous,N-rich,Carbonaceous,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+18,cluster,3.74,4,Carbonaceous,Transition metal,Carbonaceous,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+19,irregular,1.66,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+20,spherical,0.913,1,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+21,irregular,2.76,4,Carbonaceous,Mineral,Carbonaceous,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+22,cluster,1.27,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+23,irregular,0.576,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+24,irregular,1,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+25,spherical,0.619,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+26,irregular,1.02,2.5,Fe-rich,,Fe-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+27,irregular,3.18,4,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+28,irregular,1.21,2.5,Calcium Sulfate,,Others,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+29,irregular,1.15,2.5,Ca-rich,,Others,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+30,irregular,1.52,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+31,spherical,1.06,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+32,irregular,0.926,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+33,cluster,2.1,2.5,Ca-rich,,Others,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+34,irregular,0.852,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+35,cluster,1.73,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+36,spherical,0.793,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+37,irregular,2.51,4,Transition metal,,Transition metal,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+38,cluster,0.689,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+39,irregular,1.85,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+40,irregular,0.776,1,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+41,cluster,1.85,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+42,irregular,1.48,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+43,irregular,1.53,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+44,cluster,0.944,1,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+45,spherical,1.18,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+46,irregular,1.38,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+47,irregular,2.41,2.5,Mineral,,Mineral,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+48,irregular,2.15,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+49,irregular,1.83,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+50,cluster,2.34,2.5,N-rich,,N-rich,"30. Noto(12.15, non-event)",30,Noto,2020,12,15,Non-event
+1,irregular,0.701,1,Calcium Sulfate,,Others,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+2,cluster,0.538,1,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+3,irregular,1.78,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+4,irregular,0.843,1,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+5,irregular,1.36,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+6,cluster,2.05,2.5,Carbonaceous,S-rich,Carbonaceous,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+7,irregular,1.33,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+8,irregular,0.572,1,Transition metal,,Transition metal,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+9,spherical,0.966,1,Fly ash,,Others,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+10,irregular,1.96,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+11,cluster,1.53,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+12,irregular,2.2,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+13,cluster,1.79,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+14,spherical,0.716,1,Fe-rich,,Fe-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+15,spherical,0.904,1,Fe-rich,,Fe-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+16,irregular,2.07,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+17,irregular,1.58,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+18,irregular,1.9,2.5,Carbonaceous,Mineral,Carbonaceous,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+19,cluster,2.19,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+20,cluster,1.89,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+21,irregular,2.21,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+22,spherical,0.565,1,Fe-rich,,Fe-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+23,irregular,0.919,1,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+24,irregular,1.67,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+25,irregular,1.64,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+26,irregular,1.3,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+27,irregular,4.05,4,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+28,cluster,2.1,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+29,irregular,2.44,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+30,irregular,1.27,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+31,irregular,1.59,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+32,cluster,0.984,1,Calcium Sulfate,,Others,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+33,irregular,1.9,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+34,irregular,2.44,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+35,irregular,0.674,1,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+36,chainlike,2.26,2.5,Carbonaceous,N-rich,Carbonaceous,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+37,spherical,0.515,1,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+38,irregular,1.61,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+39,irregular,1.05,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+40,irregular,2.24,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+41,irregular,1.97,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+42,spherical,0.616,1,Fe-rich,,Fe-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+43,cluster,1.53,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+44,cluster,1.54,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+45,cluster,1,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+46,spherical,1.19,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+47,irregular,1.12,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+48,cluster,1,2.5,N-rich,,N-rich,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+49,irregular,2.47,2.5,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+50,cluster,0.83,1,Mineral,,Mineral,"31. Noto(12.28, event)",31,Noto,2020,12,28,Event
+1,irregular,1.7,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+2,irregular,2.11,2.5,N-rich,,N-rich,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+3,irregular,0.895,1,Carbonaceous,Flourine compound,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+4,spherical,0.825,1,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+5,irregular,0.718,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+6,irregular,0.571,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+7,spherical,0.8,1,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+8,irregular,1.24,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+9,spherical,0.899,1,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+10,irregular,1.68,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+11,irregular,1.89,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+12,irregular,1.84,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+13,spherical,1.59,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+14,irregular,1.25,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+15,spherical,2.7,4,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+16,irregular,2.16,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+17,irregular,1.65,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+18,spherical,0.772,1,Mineral,,Mineral,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+19,irregular,0.495,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+20,irregular,0.754,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+21,irregular,1.59,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+22,irregular,2.5,4,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+23,irregular,1.13,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+24,irregular,0.912,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+25,cluster,1.27,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+26,irregular,1.47,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+27,spherical,0.917,1,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+28,irregular,1.55,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+29,irregular,1.87,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+30,spherical,1.25,2.5,Mineral,,Mineral,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+31,irregular,0.588,1,Fe-rich,,Fe-rich,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+32,irregular,2.36,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+33,irregular,1.45,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+34,irregular,1.18,2.5,Mineral,,Mineral,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+35,cluster,0.816,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+36,cluster,1.14,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+37,irregular,1.38,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+38,irregular,0.63,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+39,cluster,0.774,1,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+40,irregular,1.78,2.5,Carbonaceous,S-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+41,irregular,1.47,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+42,irregular,1.98,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+43,spherical,1.22,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+44,cluster,4.04,4,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+45,cluster,2.93,4,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+46,irregular,2.33,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+47,irregular,2.13,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+48,irregular,1.02,2.5,Carbonaceous,Mineral,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+49,irregular,2.17,2.5,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+50,irregular,2.88,4,Carbonaceous,N-rich,Carbonaceous,"32. Ulanbatar (12.16, event)",32,Ulanbatar,2020,12,16,Event
+1,cluster,0.872,1,N-rich,,N-rich,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+2,cluster,1.88,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+3,irregular,1.41,2.5,Flourine compound,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+4,cluster,4.15,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+5,irregular,2.92,4,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+6,irregular,2.31,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+7,cluster,0.975,1,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+8,spherical,0.732,1,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+9,spherical,0.736,1,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+10,cluster,1.06,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+11,irregular,2.1,2.5,Carbonaceous,Mineral,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+12,irregular,1.7,2.5,Carbonaceous,Flourine compound,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+13,spherical,1.1,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+14,irregular,0.977,1,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+15,chainlike,4.53,4,N-rich,,N-rich,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+16,chainlike,3.34,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+17,cluster,2.84,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+18,cluster,2.21,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+19,spherical,1.96,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+20,irregular,2.22,2.5,N-rich,,N-rich,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+21,irregular,2.97,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+22,irregular,1.92,2.5,Flourine compound,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+23,cluster,1.63,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+24,spherical,0.865,1,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+25,cluster,3.9,4,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+26,irregular,1.24,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+27,chainlike,2.28,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+28,irregular,1.58,2.5,Calcium Sulfate,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+29,cluster,3.12,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+30,spherical,1,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+31,cluster,2.39,2.5,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+32,irregular,1.99,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+33,spherical,1.26,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+34,irregular,1.46,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+35,cluster,2.08,2.5,N-rich,,N-rich,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+36,irregular,1.46,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+37,chainlike,2.53,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+38,cluster,4.25,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+39,spherical,0.516,1,Fe-rich,,Fe-rich,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+40,spherical,1.17,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+41,cluster,2.74,4,sulfate,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+42,irregular,1.67,2.5,Calcium Sulfate,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+43,chainlike,4.08,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+44,chainlike,4.06,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+45,irregular,0.879,1,Fly ash,,Others,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+46,cluster,4.36,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+47,irregular,1.44,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+48,irregular,2.77,4,Carbonaceous,Fe-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+49,irregular,2.37,2.5,Mineral,,Mineral,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+50,cluster,2.62,4,Carbonaceous,N-rich,Carbonaceous,"33. Ulanbatar(12.29, non-event)",33,Ulanbatar,2020,12,29,Non-event
+1,irregular,1.74,2.5,Carbonaceous,Calcium sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+2,irregular,0.691,1,Carbonaceous,Fly ash,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+3,spherical,0.579,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+4,irregular,1.74,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+5,irregular,1.86,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+6,irregular,2.06,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+7,irregular,2.54,4,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+8,irregular,1.83,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+9,spherical,0.643,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+10,irregular,0.999,1,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+11,irregular,1.28,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+12,spherical,1.04,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+13,irregular,1.11,2.5,Carbonaceous,Transition metal,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+14,irregular,4.22,4,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+15,irregular,1.71,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+16,irregular,3.27,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+17,spherical,0.897,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+18,irregular,1.56,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+19,spherical,1.35,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+20,irregular,4.65,4,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+21,spherical,1.14,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+22,spherical,0.597,1,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+23,irregular,3.63,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+24,spherical,0.671,1,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+25,irregular,1.11,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+26,irregular,1.35,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+27,spherical,1.12,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+28,irregular,2.74,4,Carbonaceous,Calcium sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+29,irregular,0.653,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+30,cluster,2.47,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+31,irregular,3.9,4,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+32,irregular,2.16,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+33,irregular,1.81,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+34,irregular,5.09,4,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+35,cluster,2.53,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+36,irregular,2.81,4,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+37,cluster,1.84,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+38,irregular,4,4,Carbonaceous,Fe-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+39,spherical,1.22,2.5,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+40,irregular,3.37,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+41,irregular,2.52,4,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+42,irregular,3.15,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+43,irregular,0.507,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+44,irregular,1.34,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+45,spherical,0.66,1,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+46,irregular,4.53,4,Carbonaceous,N-rich,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+47,irregular,1.42,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+48,irregular,1.59,2.5,Carbonaceous,Mineral,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+49,irregular,1.87,2.5,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+50,irregular,4.76,4,Carbonaceous,Sulfate,Carbonaceous,"34. Ulanbatar (12.21, event)",34,Ulanbatar,2020,12,21,Event
+1,irregular,2.43,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+2,cluster,1.17,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+3,irregular,3.77,4,Calcium Sulfate,Mineral,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+4,irregular,1.9,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+5,irregular,2.37,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+6,irregular,2.33,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+7,irregular,5.33,4,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+8,cluster,1.09,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+9,irregular,2.05,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+10,spherical,1.57,2.5,N-rich,,N-rich,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+11,irregular,1.86,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+12,irregular,2.08,2.5,Flourine compound,,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+13,irregular,1.25,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+14,irregular,2.51,4,Carbonaceous,N-rich,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+15,spherical,2.1,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+16,irregular,2.19,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+17,spherical,1.52,2.5,Fly ash,,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+18,irregular,2.21,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+19,irregular,0.745,1,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+20,irregular,2.97,4,Carbonaceous,N-rich,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+21,cluster,0.812,1,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+22,irregular,1.09,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+23,irregular,1.51,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+24,irregular,1.02,2.5,Calcium Sulfate,,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+25,irregular,1.44,2.5,Carbonaceous,N-rich,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+26,irregular,1.38,2.5,N-rich,,N-rich,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+27,irregular,2.7,4,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+28,irregular,2.65,4,Calcium Sulfate,,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+29,irregular,2.04,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+30,spherical,1.1,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+31,irregular,2.2,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+32,cluster,2.33,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+33,irregular,1.92,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+34,irregular,2.09,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+35,cluster,1.26,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+36,irregular,1.18,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+37,cluster,2.14,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+38,spherical,1.01,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+39,irregular,1.21,2.5,B-rich,,Others,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+40,irregular,1.07,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+41,irregular,1.94,2.5,Carbonaceous,Fluorine compound,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+42,irregular,1.75,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+43,irregular,1.09,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+44,irregular,1.18,2.5,Carbonaceous,Fluorine compound,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+45,irregular,4.66,4,N-rich,,N-rich,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+46,spherical,1.61,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+47,irregular,2.29,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+48,cluster,2.45,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+49,cluster,2.11,2.5,Carbonaceous,Mineral,Carbonaceous,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+50,irregular,1.76,2.5,Mineral,,Mineral,"4. Ulanbatar (01.05, non-event)",4,Ulanbatar,2021,1,5,Non-event
+1,cluster,2.35,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+2,spherical,0.456,1,Fe-rich,,Fe-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+3,irregular,1.9,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+4,irregular,1.44,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+5,irregular,2.8,4,Carbonaceous,Transition metal,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+6,irregular,2.07,2.5,Mineral,,Mineral,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+7,irregular,1.24,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+8,cluster,2.53,4,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+9,cluster,2.18,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+10,irregular,1.19,2.5,Fe-rich,,Fe-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+11,irregular,1.22,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+12,cluster,2.14,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+13,irregular,1.95,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+14,cluster,1.45,2.5,Carbonaceous,Calcium sulfate,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+15,irregular,1.26,2.5,Carbonaceous,Mineral,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+16,spherical,1.8,2.5,Fe-rich,,Fe-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+17,irregular,1.39,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+18,irregular,2.05,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+19,cluster,2.96,4,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+20,irregular,2.12,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+21,cluster,2.4,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+22,cluster,1.1,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+23,irregular,1.49,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+24,irregular,0.794,1,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+25,irregular,1.48,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+26,irregular,1.16,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+27,irregular,1.54,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+28,irregular,1.86,2.5,Calcium Sulfate,,Others,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+29,irregular,1.91,2.5,Calcium Sulfate,,Others,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+30,irregular,0.908,1,Mineral,,Mineral,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+31,irregular,1.3,2.5,Fe-rich,,Fe-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+32,irregular,0.981,1,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+33,irregular,2.25,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+34,irregular,1.05,2.5,Fe-rich,,Fe-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+35,irregular,3.12,4,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+36,cluster,1.31,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+37,irregular,1.3,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+38,spherical,1.07,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+39,irregular,2.27,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+40,irregular,0.61,1,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+41,irregular,1.11,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+42,irregular,1.45,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+43,irregular,2.38,2.5,Mineral,,Mineral,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+44,spherical,1.39,2.5,Carbonaceous,N-rich,Carbonaceous,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+45,irregular,1.89,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+46,irregular,1.37,2.5,Transition metal,,Transition metal,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+47,irregular,0.703,1,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+48,irregular,2.04,2.5,N-rich,,N-rich,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+49,irregular,1.86,2.5,Ca-rich,,Others,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+50,irregular,1.07,2.5,S-rich,,Others,"5. Seoul (12.22, event)",5,Seoul,2020,12,22,Event
+1,irregular,2.54,4,Carbonaceous,Mineral,Carbonaceous,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+2,irregular,1.17,2.5,Transition metal,,Transition metal,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+3,irregular,1.12,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+4,irregular,2.54,4,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+5,irregular,1.91,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+6,irregular,2.87,4,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+7,cluster,2.49,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+8,irregular,1.5,2.5,Carbonaceous,Mineral,Carbonaceous,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+9,irregular,1.02,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+10,irregular,1.19,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+11,irregular,1.04,2.5,Calcium Sulfate,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+12,irregular,1.17,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+13,cluster,0.881,1,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+14,irregular,1.44,2.5,N-rich,,N-rich,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+15,cluster,0.171,1,Carbonaceous,N-rich,Carbonaceous,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+16,irregular,1.95,2.5,N-rich,,N-rich,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+17,irregular,2.24,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+18,irregular,2.75,4,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+19,irregular,1.04,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+20,irregular,1.38,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+21,irregular,0.967,1,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+22,irregular,1.91,2.5,N-rich,,N-rich,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+23,irregular,0.903,1,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+24,irregular,2.64,4,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+25,irregular,1.5,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+26,irregular,0.49,1,S-rich,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+27,irregular,0.536,1,sulfate,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+28,irregular,0.989,1,sulfate,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+29,irregular,1.61,2.5,Carbonaceous,Mineral,Carbonaceous,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+30,irregular,0.922,1,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+31,irregular,1.75,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+32,irregular,1.7,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+33,irregular,1.38,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+34,irregular,1.33,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+35,irregular,0.848,1,N-rich,,N-rich,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+36,irregular,1.38,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+37,irregular,1.82,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+38,irregular,1.91,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+39,irregular,2.63,4,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+40,irregular,1.04,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+41,irregular,1.48,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+42,irregular,1.69,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+43,irregular,1.24,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+44,irregular,2.47,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+45,irregular,1.39,2.5,Calcium Sulfate,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+46,irregular,1.61,2.5,Carbonaceous,Flourine compound,Carbonaceous,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+47,irregular,2.45,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+48,irregular,2.31,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+49,irregular,1.89,2.5,Flourine compound,,Others,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+50,irregular,1.08,2.5,Mineral,,Mineral,"6. Beijing (12.22, event)",6,Beijing,2020,12,22,Event
+1,spherical,1.01,2.5,Carbonaceous,Mineral,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+2,spherical,0.928,1,Carbonaceous,Mineral,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+3,irregular,1.66,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+4,cluster,2.36,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+5,irregular,2.12,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+6,spherical,1.73,2.5,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+7,irregular,1.18,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+8,cluster,1.79,2.5,Carbonaceous,Calcium sulfate,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+9,irregular,1.47,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+10,spherical,1.19,2.5,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+11,irregular,1.78,2.5,Flourine compound,,Others,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+12,irregular,1.38,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+13,irregular,0.85,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+14,irregular,2.1,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+15,irregular,0.744,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+16,spherical,0.946,1,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+17,irregular,1.25,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+18,irregular,0.474,1,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+19,cluster,1.61,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+20,irregular,0.814,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+21,irregular,0.84,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+22,irregular,0.95,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+23,irregular,0.569,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+24,irregular,0.73,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+25,cluster,0.492,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+26,irregular,0.973,1,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+27,spherical,1.14,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+28,irregular,1.45,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+29,irregular,1.54,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+30,cluster,1.75,2.5,sulfate,,Others,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+31,spherical,0.941,1,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+32,irregular,2.12,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+33,spherical,1.29,2.5,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+34,cluster,0.844,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+35,irregular,1.42,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+36,irregular,1.41,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+37,irregular,1.66,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+38,irregular,0.993,1,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+39,irregular,1.43,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+40,irregular,1.17,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+41,cluster,1.15,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+42,irregular,1.53,2.5,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+43,irregular,2.03,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+44,irregular,3.03,4,N-rich,,N-rich,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+45,irregular,2.64,4,Mineral,,Mineral,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+46,irregular,1.07,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+47,irregular,1.41,2.5,Carbonaceous,Mineral,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+48,irregular,0.999,1,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+49,irregular,1.29,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+50,cluster,1.1,2.5,Carbonaceous,N-rich,Carbonaceous,"7. Ulanbatar (12.22, event)",7,Ulanbatar,2020,12,22,Event
+1,irregular,2.35,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+2,irregular,2.01,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+3,irregular,1.16,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+4,irregular,1.39,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+5,cluster,0.909,1,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+6,irregular,1.66,2.5,Carbonaceous,Mineral,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+7,irregular,1.87,2.5,Calcium Sulfate,,Others,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+8,irregular,2.89,4,Transition metal,,Transition metal,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+9,cluster,1.71,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+10,cluster,1.47,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+11,irregular,1.21,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+12,irregular,2.36,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+13,irregular,1.21,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+14,irregular,1.17,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+15,cluster,1.84,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+16,irregular,1.63,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+17,irregular,1.92,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+18,spherical,1.07,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+19,irregular,1.21,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+20,irregular,0.632,1,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+21,irregular,0.918,1,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+22,irregular,1.31,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+23,irregular,1.9,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+24,irregular,0.766,1,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+25,irregular,2.41,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+26,irregular,1.75,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+27,irregular,0.834,1,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+28,irregular,1.12,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+29,irregular,1.74,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+30,spherical,0.688,1,Carbonaceous,Mineral,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+31,irregular,1.77,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+32,cluster,1.67,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+33,irregular,1.09,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+34,irregular,1.52,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+35,irregular,1.13,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+36,irregular,0.857,1,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+37,irregular,1.19,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+38,cluster,1.06,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+39,cluster,2.24,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+40,irregular,1.02,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+41,cluster,1.02,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+42,irregular,1.11,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+43,cluster,2.31,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+44,irregular,2.11,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+45,cluster,1.8,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+46,cluster,0.908,1,Carbonaceous,n-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+47,irregular,1.15,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+48,irregular,1.54,2.5,sulfate,,Others,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+49,irregular,1.23,2.5,Carbonaceous,N-rich,Carbonaceous,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+50,cluster,1.66,2.5,N-rich,,N-rich,"8. Seosan (12.22, event)",8,Seosan,2020,12,22,Event
+1,cluster,2.58,4,Transition metal,,Transition metal,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+2,spherical,1.26,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+3,irregular,0.926,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+4,irregular,2.08,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+5,irregular,1.16,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+6,irregular,1.53,2.5,Carbonaceous,Ca-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+7,irregular,1.11,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+8,cluster,0.828,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+9,cluster,0.685,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+10,irregular,0.861,1,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+11,irregular,0.716,1,N-rich,N-rich,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+12,cluster,1.78,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+13,irregular,0.951,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+14,cluster,1.84,2.5,Fly ash,,Others,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+15,irregular,0.672,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+16,spherical,1.04,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+17,irregular,1.2,2.5,Transition metal,,Transition metal,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+18,irregular,1.15,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+19,cluster,2.55,4,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+20,irregular,3.12,4,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+21,cluster,1.46,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+22,cluster,0.703,1,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+23,irregular,1.27,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+24,irregular,1.17,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+25,irregular,2.17,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+26,irregular,3.21,4,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+27,irregular,1.3,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+28,irregular,2.07,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+29,irregular,1.54,2.5,Mineral,,Mineral,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+30,irregular,2.72,4,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+31,irregular,2.3,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+32,irregular,2.57,4,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+33,irregular,2.28,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+34,irregular,1.1,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+35,irregular,0.944,1,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+36,cluster,0.79,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+37,irregular,1.18,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+38,spherical,0.71,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+39,irregular,1.27,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+40,irregular,0.816,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+41,irregular,2.28,2.5,Mineral,,Mineral,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+42,irregular,2.04,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+43,irregular,1.19,2.5,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+44,spherical,0.427,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+45,irregular,1.12,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+46,irregular,1.67,2.5,Carbonaceous,Calcium sulfate,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+47,irregular,1.47,2.5,Carbonaceous,S-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+48,irregular,0.929,1,N-rich,,N-rich,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+49,irregular,1.73,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event
+50,irregular,1.49,2.5,Carbonaceous,N-rich,Carbonaceous,"9. Seoul (12.23, event)",9,Seoul,2020,12,23,Event

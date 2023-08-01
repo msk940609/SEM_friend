@@ -1,0 +1,1351 @@
+point_id,Morphology,Size,Class,Type,Detail,Type2,Group,Year,Month,Day,Date,Event
+1,Irregular,1.32,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+2,Spherical,0.958,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+3,Irregular,0.548,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+4,Irregular,1.59,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+5,Irregular,,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+6,Spherical,2.05,2,Fly ash,,Others,UT,2021,6,24,2021-06-24,Event
+7,Cluster,1.2,2,N-rich,,N-rich,UT,2021,6,24,2021-06-24,Event
+8,Cluster,3.65,3,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+9,Cluster,2.13,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+10,Cluster,1.56,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+11,Irregular,1.99,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+12,Irregular,0.641,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+13,Irregular,1.64,2,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+14,Cluster,3.14,3,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+15,Cluster,1.42,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+16,Irregular,0.81,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+17,Irregular,1.53,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+18,Irregular,1.48,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+19,Irregular,2.5,3,Fly ash,,Others,UT,2021,6,24,2021-06-24,Event
+20,Spherical,0.776,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+21,Irregular,0.889,1,Rare earth metal,,Others,UT,2021,6,24,2021-06-24,Event
+22,Spherical,0.737,1,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,24,2021-06-24,Event
+23,Cluster,2.04,2,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,24,2021-06-24,Event
+24,Irregular,1.04,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+25,Cluster,0.775,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+26,Spherical,1.66,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+27,Spherical,1.28,2,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+28,Irregular,2.4,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+29,Cluster,2.27,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+30,Cluster,1.38,2,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,24,2021-06-24,Event
+31,Cluster,2.61,3,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+32,Irregular,1.06,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+33,Spherical,1.47,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+34,Cluster,1.23,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+35,Irregular,1.14,2,Transition metal,,Transition metal,UT,2021,6,24,2021-06-24,Event
+36,Spherical,0.448,1,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+37,Cluster,3.25,3,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+38,Cluster,2.05,2,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+39,Cluster,0.885,1,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,24,2021-06-24,Event
+40,Cluster,0.709,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+41,Irregular,0.668,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+42,Cluster,1.61,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+43,Cluster,1.06,2,Transition metal,,Transition metal,UT,2021,6,24,2021-06-24,Event
+44,Spherical,0.896,1,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+45,Irregular,1.82,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+46,Spherical,1.32,2,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+47,Irregular,1.8,2,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+48,Spherical,1.19,2,Mineral,,Mineral,UT,2021,6,24,2021-06-24,Event
+49,Irregular,2.7,3,Fe-rich,,Fe-rich,UT,2021,6,24,2021-06-24,Event
+50,Spherical,0.736,1,S-rich,,Others,UT,2021,6,24,2021-06-24,Event
+1,Spherical,0.572,1,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+2,Irregular,1.36,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+3,Irregular,1.84,2,Transition metal,,Transition metal,UT,2021,6,1,2021-06-01,Non-event
+4,Cluster,4.3,3,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+5,Spherical,2.16,2,Carbonaceous,Flourine compound,Carbonaceous,UT,2021,6,1,2021-06-01,Non-event
+6,Irregular,1.8,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+7,Cluster,4.28,3,Calcium Sulfate,,Others,UT,2021,6,1,2021-06-01,Non-event
+8,Cluster,2.11,2,N-rich,,N-rich,UT,2021,6,1,2021-06-01,Non-event
+9,Chainlike,2.5,3,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,1,2021-06-01,Non-event
+10,Spherical,3.49,3,Fly ash,,Others,UT,2021,6,1,2021-06-01,Non-event
+11,Spherical,2.58,3,Fly ash,,Others,UT,2021,6,1,2021-06-01,Non-event
+12,Irregular,1.75,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+13,Cluster,2.45,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+14,Irregular,1.06,2,Calcium Sulfate,,Others,UT,2021,6,1,2021-06-01,Non-event
+15,Irregular,1.77,2,Fe-rich,,Fe-rich,UT,2021,6,1,2021-06-01,Non-event
+16,Cluster,2.02,2,Fe-rich,,Fe-rich,UT,2021,6,1,2021-06-01,Non-event
+17,Irregular,2.99,3,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+18,Cluster,2.76,3,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+19,Irregular,3.12,3,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+20,Cluster,1.73,2,Carbonaceous,N-rich,Carbonaceous,UT,2021,6,1,2021-06-01,Non-event
+21,Cluster,2.24,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+22,Cluster,1.56,2,Transition metal,,Transition metal,UT,2021,6,1,2021-06-01,Non-event
+23,Spherical,1.13,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+24,Cluster,2.98,3,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+25,Irregular,1.13,2,N-rich,,N-rich,UT,2021,6,1,2021-06-01,Non-event
+26,Irregular,1.96,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+27,Cluster,2.23,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+28,Irregular,1.59,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+29,Cluster,2.86,3,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+30,Cluster,2.12,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+31,Irregular,1.29,2,Calcium Sulfate,,Others,UT,2021,6,1,2021-06-01,Non-event
+32,Irregular,0.874,1,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+33,Irregular,1.4,2,Fe-rich,,Fe-rich,UT,2021,6,1,2021-06-01,Non-event
+34,Irregular,1.97,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+35,Spherical,1.08,2,Fly ash,,Others,UT,2021,6,1,2021-06-01,Non-event
+36,Irregular,1.57,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+37,Cluster,2.23,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+38,Cluster,1.2,2,Carbonaceous,Mineral,Carbonaceous,UT,2021,6,1,2021-06-01,Non-event
+39,Irregular,1.88,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+40,Spherical,1.52,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+41,Cluster,2.89,3,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+42,Spherical,1.64,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+43,Cluster,2.46,2,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+44,Spherical,2.75,3,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+45,Spherical,1.17,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+46,Irregular,3.62,3,Flourine compound,,Others,UT,2021,6,1,2021-06-01,Non-event
+47,Irregular,2.24,2,Transition metal,,Transition metal,UT,2021,6,1,2021-06-01,Non-event
+48,Spherical,1.59,2,Mineral,,Mineral,UT,2021,6,1,2021-06-01,Non-event
+49,Spherical,1.54,2,Fe-rich,,Fe-rich,UT,2021,6,1,2021-06-01,Non-event
+50,Spherical,1.14,2,Fe-rich,,Fe-rich,UT,2021,6,1,2021-06-01,Non-event
+1,Irregular,1.66,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+2,Spherical,0.971,1,Fe-rich,,Fe-rich,UT,2021,6,7,2021-06-07,Non-event
+3,Cluster,2.82,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+4,Irregular,1.1,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+5,Cluster,3.91,3,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+6,Cluster,3.41,3,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+7,Cluster,4.04,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+8,Cluster,1.27,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+9,Cluster,2.14,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+10,Irregular,1.51,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+11,Cluster,3.03,3,Calcium Sulfate,,Others,UT,2021,6,7,2021-06-07,Non-event
+12,Cluster,0.818,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+13,Cluster,3.09,3,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+14,Spherical,1.68,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+15,Irregular,1.39,2,Ca-rich,,Others,UT,2021,6,7,2021-06-07,Non-event
+16,Spherical,0.667,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+17,Cluster,1.12,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+18,Spherical,1.85,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+19,Cluster,3.14,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+20,Cluster,1.33,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+21,Cluster,3.14,3,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+22,Cluster,2.46,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+23,Irregular,3.63,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+24,Irregular,4.05,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+25,Cluster,2.35,2,Fe-rich,,Fe-rich,UT,2021,6,7,2021-06-07,Non-event
+26,Spherical,0.989,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+27,Irregular,2.85,3,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+28,Cluster,3.12,3,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+29,Irregular,2.18,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+30,Irregular,1.29,2,Ca-rich,,Others,UT,2021,6,7,2021-06-07,Non-event
+31,Spherical,2.78,3,Flourine compound,,Others,UT,2021,6,7,2021-06-07,Non-event
+32,Cluster,3.08,3,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+33,Irregular,0.732,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+34,Irregular,3,3,Flourine compound,,Others,UT,2021,6,7,2021-06-07,Non-event
+35,Irregular,2.5,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+36,Irregular,0.743,1,Calcium Sulfate,,Others,UT,2021,6,7,2021-06-07,Non-event
+37,Spherical,0.839,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+38,Cluster,0.988,1,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+39,Irregular,2.03,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+40,Irregular,2.74,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+41,Irregular,2.96,3,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+42,Spherical,0.785,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+43,Irregular,2.37,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+44,Cluster,1.61,2,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+45,Spherical,2.4,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+46,Cluster,1.75,2,N-rich,,N-rich,UT,2021,6,7,2021-06-07,Non-event
+47,Irregular,0.957,1,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+48,Irregular,1.36,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+49,Cluster,4.73,3,Carbonaceous,,Carbonaceous,UT,2021,6,7,2021-06-07,Non-event
+50,Irregular,2.08,2,Mineral,,Mineral,UT,2021,6,7,2021-06-07,Non-event
+1,Irregular,1.39,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+2,Spherical,0.536,1,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+3,Cluster,1.72,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+4,Cluster,2.4,2,Ca-rich,,Others,UT,2021,6,26,2021-06-26,Event
+5,Spherical,1.21,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+6,Irregular,2.44,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+7,Chainlike,2.33,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+8,Irregular,1.56,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+9,Spherical,0.723,1,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+10,Irregular,1.58,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+11,Cluster,2.02,2,Ca-rich,,Others,UT,2021,6,26,2021-06-26,Event
+12,Irregular,1.09,2,Fly ash,,Others,UT,2021,6,26,2021-06-26,Event
+13,Cluster,1.2,2,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+14,Cluster,1.23,2,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+15,Spherical,1.18,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+16,Cluster,1.21,2,Ca-rich,,Others,UT,2021,6,26,2021-06-26,Event
+17,Spherical,3.49,3,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+18,Cluster,1.61,2,Calcium Sulfate,,Others,UT,2021,6,26,2021-06-26,Event
+19,Cluster,0.878,1,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+20,Spherical,1.12,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+21,Cluster,1.06,2,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+22,Spherical,1.39,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+23,Cluster,2.59,3,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+24,Irregular,1.61,2,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+25,Irregular,2.83,3,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+26,Irregular,2.31,2,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+27,Irregular,0.832,1,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+28,Cluster,1.05,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+29,Irregular,1.68,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+30,Cluster,1.48,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+31,Irregular,1.6,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+32,Irregular,2.01,2,Calcium Sulfate,,Others,UT,2021,6,26,2021-06-26,Event
+33,Cluster,3.2,3,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+34,Spherical,0.581,1,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+35,Irregular,1.77,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+36,Irregular,3.18,3,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+37,Cluster,1.43,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+38,Cluster,1.91,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+39,Cluster,0.662,1,N-rich,,N-rich,UT,2021,6,26,2021-06-26,Event
+40,Cluster,1.08,2,N-rich,,N-rich,UT,2021,6,26,2021-06-26,Event
+41,Irregular,1.21,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+42,Cluster,2.31,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+43,Spherical,1.15,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+44,Cluster,2.49,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+45,Irregular,2.62,3,Carbonaceous,,Carbonaceous,UT,2021,6,26,2021-06-26,Event
+46,Irregular,1.6,2,Mineral,,Mineral,UT,2021,6,26,2021-06-26,Event
+47,Irregular,1.24,2,Transition metal,,Transition metal,UT,2021,6,26,2021-06-26,Event
+48,Irregular,1.15,2,Fe-rich,,Fe-rich,UT,2021,6,26,2021-06-26,Event
+49,Spherical,1.41,2,Fly ash,,Others,UT,2021,6,26,2021-06-26,Event
+50,Irregular,2.3,2,Calcium phosphate,,Others,UT,2021,6,26,2021-06-26,Event
+1,Spherical,1.07,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+2,Irregular,1.52,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+3,Chainlike,2.49,2,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+4,Spherical,1.46,2,Fe-rich,,Fe-rich,UT,2021,6,27,2021-06-27,Event
+5,Chainlike,1.51,2,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+6,Irregular,1.96,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+7,Cluster,2.01,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+8,Cluster,3.27,3,Ca-rich,,Others,UT,2021,6,27,2021-06-27,Event
+9,Cluster,2.99,3,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+10,Irregular,0.4,1,N-rich,,N-rich,UT,2021,6,27,2021-06-27,Event
+11,Chainlike,1.9,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+12,Spherical,0.881,1,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+13,Irregular,1.35,2,Transition metal,,Transition metal,UT,2021,6,27,2021-06-27,Event
+14,Irregular,1.31,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+15,Chainlike,4.25,3,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+16,Cluster,1.54,2,N-rich,,N-rich,UT,2021,6,27,2021-06-27,Event
+17,Cluster,1.49,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+18,Chainlike,3.2,3,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+19,Irregular,1.38,2,Flourine compound,,Others,UT,2021,6,27,2021-06-27,Event
+20,Spherical,1.17,2,Fe-rich,,Fe-rich,UT,2021,6,27,2021-06-27,Event
+21,Irregular,1.3,2,Transition metal,,Transition metal,UT,2021,6,27,2021-06-27,Event
+22,Irregular,2.26,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+23,Cluster,2.28,2,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+24,Cluster,1.75,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+25,Cluster,2.03,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+26,Cluster,1.82,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+27,Irregular,0.562,1,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+28,Spherical,0.714,1,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+29,Irregular,2.24,2,Transition metal,,Transition metal,UT,2021,6,27,2021-06-27,Event
+30,Spherical,0.915,1,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+31,Cluster,2.12,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+32,Irregular,1.17,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+33,Irregular,2.53,3,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+34,Spherical,0.964,1,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+35,Cluster,2.98,3,Carbonaceous,,Carbonaceous,UT,2021,6,27,2021-06-27,Event
+36,Irregular,1.87,2,Fe-rich,,Fe-rich,UT,2021,6,27,2021-06-27,Event
+37,Cluster,2.96,3,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+38,Irregular,1.67,2,Transition metal,,Transition metal,UT,2021,6,27,2021-06-27,Event
+39,Irregular,3.56,3,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+40,Cluster,2.05,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+41,Cluster,1.91,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+42,Spherical,1.45,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+43,Irregular,2.07,2,Transition metal,,Transition metal,UT,2021,6,27,2021-06-27,Event
+44,Cluster,2.24,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+45,Irregular,0.907,1,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+46,Irregular,1.16,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+47,Cluster,1.26,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+48,Spherical,1.34,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+49,Irregular,1.5,2,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+50,Cluster,2.71,3,Mineral,,Mineral,UT,2021,6,27,2021-06-27,Event
+1,Irregular,1.01,2,Fly ash,,Others,BJ,2021,6,12,2021-06-12,Event
+2,Cluster,1.31,2,Fly ash,,Others,BJ,2021,6,12,2021-06-12,Event
+3,Spherical,0.784,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+4,Irregular,0.542,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+5,Irregular,1.79,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+6,Irregular,1.42,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+7,Irregular,0.403,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+8,Irregular,0.411,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+9,Cluster,0.692,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+10,Irregular,1.46,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+11,Irregular,1.13,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+12,Irregular,1.41,2,Flourine compound,,Others,BJ,2021,6,12,2021-06-12,Event
+13,Cluster,1.03,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+14,Irregular,1.25,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+15,Cluster,1.23,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+16,Spherical,0.444,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+17,Cluster,1.57,2,Carbonaceous,,Carbonaceous,BJ,2021,6,12,2021-06-12,Event
+18,Irregular,0.924,1,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+19,Irregular,1.12,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+20,Irregular,2.16,2,Transition metal,,Transition metal,BJ,2021,6,12,2021-06-12,Event
+21,Irregular,0.969,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+22,Irregular,0.687,1,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+23,Irregular,1.92,2,Carbonaceous,N-rich,Carbonaceous,BJ,2021,6,12,2021-06-12,Event
+24,Irregular,1.07,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+25,Irregular,1.37,2,Transition metal,,Transition metal,BJ,2021,6,12,2021-06-12,Event
+26,Irregular,1.43,2,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+27,Cluster,1.59,2,Carbonaceous,N-rich,Carbonaceous,BJ,2021,6,12,2021-06-12,Event
+28,Chainlike,1.48,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+29,Spherical,0.445,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+30,Irregular,1.68,2,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+31,Irregular,1.21,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+32,Cluster,0.807,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+33,Irregular,1.32,2,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+34,Irregular,1.1,2,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+35,Spherical,0.469,1,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+36,Irregular,4.38,3,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+37,Chainlike,2.8,3,N-rich,,N-rich,BJ,2021,6,12,2021-06-12,Event
+38,Spherical,0.711,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+39,Irregular,1.16,2,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+40,Irregular,1.8,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+41,Irregular,0.849,1,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+42,Irregular,2.16,2,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+43,Irregular,0.816,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+44,Irregular,1.54,2,Mineral,,Mineral,BJ,2021,6,12,2021-06-12,Event
+45,Cluster,1.01,2,Carbonaceous,N-rich,Carbonaceous,BJ,2021,6,12,2021-06-12,Event
+46,Irregular,0.945,1,Fly ash,,Others,BJ,2021,6,12,2021-06-12,Event
+47,Spherical,0.941,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+48,Spherical,0.358,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+49,Irregular,2.28,2,N-rich,Mineral,N-rich,BJ,2021,6,12,2021-06-12,Event
+50,Spherical,0.555,1,Fe-rich,,Fe-rich,BJ,2021,6,12,2021-06-12,Event
+1,Irregular,2.22,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+2,Irregular,0.952,1,N-rich,@,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+3,Irregular,1.69,2,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+4,Cluster,1.93,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+5,Cluster,2.71,3,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+6,Irregular,1.76,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+7,Cluster,1.52,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+8,Cluster,2.89,3,Transition metal,,Transition metal,BJ,2021,6,2,2021-06-02,Non-event
+9,Cluster,0.953,1,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+10,Spherical,1.03,2,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+11,Cluster,2.17,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+12,Irregular,0.746,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+13,Irregular,0.979,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+14,Cluster,1.44,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+15,Irregular,1.5,2,Transition metal,,Transition metal,BJ,2021,6,2,2021-06-02,Non-event
+16,Chainlike,1.07,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+17,Cluster,4.35,3,Carbonaceous,N-rich,Carbonaceous,BJ,2021,6,2,2021-06-02,Non-event
+18,Irregular,1.83,2,Calcium Sulfate,,Others,BJ,2021,6,2,2021-06-02,Non-event
+19,Irregular,1.89,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+20,Cluster,1.01,2,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+21,Irregular,0.703,1,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+22,Irregular,1.42,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+23,Irregular,0.89,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+24,Irregular,1.59,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+25,Irregular,0.758,1,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+26,Cluster,1.65,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+27,Irregular,1.08,2,Transition metal,@,Transition metal,BJ,2021,6,2,2021-06-02,Non-event
+28,Irregular,1.6,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+29,Cluster,1.82,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+30,Cluster,1.54,2,Mineral,P containing,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+31,Irregular,1.3,2,Fe-rich,@,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+32,Irregular,0.72,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+33,Spherical,0.437,1,Fe-rich,@,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+34,Chainlike,3.57,3,N-rich,@,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+35,Irregular,0.95,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+36,Spherical,0.817,1,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+37,Irregular,1.66,2,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+38,Spherical,0.744,1,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+39,Cluster,0.88,1,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+40,Irregular,1.15,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+41,Irregular,1.67,2,Fe-rich,,Fe-rich,BJ,2021,6,2,2021-06-02,Non-event
+42,Cluster,1.16,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+43,Spherical,0.649,1,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+44,Cluster,3.7,3,Carbonaceous,N-rich,Carbonaceous,BJ,2021,6,2,2021-06-02,Non-event
+45,Irregular,0.915,1,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+46,Irregular,1.16,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+47,Irregular,1.73,2,Mineral,,Mineral,BJ,2021,6,2,2021-06-02,Non-event
+48,Irregular,1.76,2,N-rich,@,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+49,Irregular,0.425,1,N-rich,@,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+50,Cluster,1.75,2,N-rich,,N-rich,BJ,2021,6,2,2021-06-02,Non-event
+1,Irregular,2.29,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+2,Cluster,1.87,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+3,Spherical,0.558,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+4,Cluster,1.46,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+5,Irregular,1.69,2,Transition metal,,Transition metal,BJ,2021,6,13,2021-06-13,Event
+6,Irregular,0.972,1,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+7,Cluster,1.13,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+8,Irregular,0.442,1,Transition metal,Ni,Transition metal,BJ,2021,6,13,2021-06-13,Event
+9,Irregular,0.711,1,Transition metal,Pb,Transition metal,BJ,2021,6,13,2021-06-13,Event
+10,Cluster,1.4,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+11,Cluster,0.683,1,Fly ash,,Others,BJ,2021,6,13,2021-06-13,Event
+12,Spherical,0.756,1,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+13,Irregular,0.694,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+14,Irregular,1.19,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+15,Cluster,1.2,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+16,Spherical,0.696,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+17,Irregular,0.468,1,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+18,Irregular,1.34,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+19,Irregular,0.942,1,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+20,Spherical,1.22,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+21,Spherical,0.691,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+22,Cluster,0.874,1,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+23,Cluster,3.32,3,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+24,Cluster,2.24,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+25,Spherical,0.668,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+26,Irregular,1.52,2,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+27,Cluster,2.54,3,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+28,Cluster,1.19,2,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+29,Cluster,1.58,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+30,Irregular,0.777,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+31,Irregular,0.649,1,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+32,Cluster,1.22,2,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+33,Cluster,1.27,2,Fly ash,,Others,BJ,2021,6,13,2021-06-13,Event
+34,Irregular,4.34,3,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+35,Irregular,1.81,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+36,Cluster,1.85,2,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+37,Cluster,2.72,3,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+38,Irregular,1.18,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+39,Cluster,1.66,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+40,Irregular,0.65,1,Mineral,,Mineral,BJ,2021,6,13,2021-06-13,Event
+41,Irregular,0.898,1,Calcium Sulfate,,Others,BJ,2021,6,13,2021-06-13,Event
+42,Spherical,1.28,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+43,Irregular,1.01,2,N-rich,,N-rich,BJ,2021,6,13,2021-06-13,Event
+44,Irregular,1.44,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+45,Cluster,1.35,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+46,Cluster,1.61,2,Carbonaceous,,Carbonaceous,BJ,2021,6,13,2021-06-13,Event
+47,Irregular,0.62,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+48,Irregular,1.23,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+49,Irregular,0.906,1,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+50,Cluster,1.7,2,Fe-rich,,Fe-rich,BJ,2021,6,13,2021-06-13,Event
+1,Irregular,1.67,2,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+2,Irregular,2.04,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+3,Chainlike,4.32,3,Carbonaceous,,Carbonaceous,BJ,2021,6,24,2021-06-24,Event
+4,Cluster,1.87,2,Calcium Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+5,Spherical,0.474,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+6,Spherical,0.941,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+7,Irregular,0.859,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+8,Cluster,1.99,2,Carbonaceous,,Carbonaceous,BJ,2021,6,24,2021-06-24,Event
+9,Irregular,1,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+10,Irregular,1.16,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+11,Spherical,0.734,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+12,Irregular,1.43,2,Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+13,Cluster,1.36,2,Fly ash,,Others,BJ,2021,6,24,2021-06-24,Event
+14,Spherical,0.641,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+15,Cluster,1.55,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+16,Irregular,1.21,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+17,Irregular,1.51,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+18,Irregular,1.45,2,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+19,Irregular,0.91,1,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+20,Irregular,1.04,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+21,Irregular,1.02,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+22,Irregular,0.816,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+23,Irregular,0.334,1,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+24,Irregular,1.44,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+25,Irregular,1.92,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+26,Spherical,0.956,1,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+27,Cluster,1.52,2,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+28,Irregular,1.4,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+29,Cluster,1.49,2,Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+30,Irregular,1.29,2,Transition metal,,Transition metal,BJ,2021,6,24,2021-06-24,Event
+31,Cluster,2.57,3,Carbonaceous,,Carbonaceous,BJ,2021,6,24,2021-06-24,Event
+32,Irregular,1.24,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+33,Irregular,1.06,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+34,Cluster,1.31,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+35,Irregular,1.89,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+36,Cluster,1.65,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+37,Irregular,1.66,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+38,Spherical,1.18,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+39,Cluster,1.75,2,Carbonaceous,,Carbonaceous,BJ,2021,6,24,2021-06-24,Event
+40,Cluster,1.38,2,Calcium Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+41,Cluster,3.48,3,Carbonaceous,,Carbonaceous,BJ,2021,6,24,2021-06-24,Event
+42,Spherical,0.884,1,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+43,Irregular,2.17,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+44,Cluster,1.02,2,Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+45,Irregular,3.84,3,N-rich,,N-rich,BJ,2021,6,24,2021-06-24,Event
+46,Cluster,1.11,2,Sulfate,,Others,BJ,2021,6,24,2021-06-24,Event
+47,Spherical,0.87,1,Transition metal,,Transition metal,BJ,2021,6,24,2021-06-24,Event
+48,Irregular,2.86,3,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+49,Irregular,1.07,2,Fe-rich,,Fe-rich,BJ,2021,6,24,2021-06-24,Event
+50,Cluster,2.26,2,Mineral,,Mineral,BJ,2021,6,24,2021-06-24,Event
+1,Spherical,0.628,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+2,Irregular,2.79,3,Mineral,"Zn, Ca, Na, S, Mg (flower like)",Mineral,BJ,2021,6,28,2021-06-28,Event
+3,Irregular,3.17,3,Mineral,Ti,Mineral,BJ,2021,6,28,2021-06-28,Event
+4,Cluster,1.48,2,Mineral,Ti,Mineral,BJ,2021,6,28,2021-06-28,Event
+5,Irregular,0.884,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+6,Spherical,0.605,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+7,Spherical,0.688,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+8,Cluster,2.25,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+9,Irregular,0.477,1,Mineral,"Fe, Zn",Mineral,BJ,2021,6,28,2021-06-28,Event
+10,Cluster,2.23,2,Calcium Sulfate,,Others,BJ,2021,6,28,2021-06-28,Event
+11,Irregular,1.38,2,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+12,Spherical,1.11,2,Transition metal,Cr,Transition metal,BJ,2021,6,28,2021-06-28,Event
+13,Cluster,3.42,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+14,Irregular,1.67,2,N-rich,,N-rich,BJ,2021,6,28,2021-06-28,Event
+15,Irregular,2.59,3,Mineral,,Mineral,BJ,2021,6,28,2021-06-28,Event
+16,Cluster,1.25,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+17,Irregular,0.895,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+18,Chainlike,6.14,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+19,Irregular,0.835,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+20,Chainlike,3.73,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+21,Chainlike,3.85,3,N-rich,,N-rich,BJ,2021,6,28,2021-06-28,Event
+22,Irregular,1.24,2,N-rich,"Fe, Zn",N-rich,BJ,2021,6,28,2021-06-28,Event
+23,Irregular,1.19,2,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+24,Irregular,4.67,3,Calcium Sulfate,flower like,Others,BJ,2021,6,28,2021-06-28,Event
+25,Irregular,3.61,3,Calcium Sulfate,flower like,Others,BJ,2021,6,28,2021-06-28,Event
+26,Cluster,1.62,2,N-rich,,N-rich,BJ,2021,6,28,2021-06-28,Event
+27,Cluster,1.01,2,Sulfate,,Others,BJ,2021,6,28,2021-06-28,Event
+28,Cluster,2.29,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+29,Cluster,1.32,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+30,Irregular,3.48,3,Mineral,flower like,Mineral,BJ,2021,6,28,2021-06-28,Event
+31,Irregular,1.33,2,Mineral,,Mineral,BJ,2021,6,28,2021-06-28,Event
+32,Cluster,2.88,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+33,Cluster,3.77,3,N-rich,,N-rich,BJ,2021,6,28,2021-06-28,Event
+34,Chainlike,2.46,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+35,Irregular,1.71,2,Mineral,,Mineral,BJ,2021,6,28,2021-06-28,Event
+36,Irregular,4.32,3,Calcium Sulfate,flower like,Others,BJ,2021,6,28,2021-06-28,Event
+37,Irregular,0.925,1,Mineral,BaSO4,Mineral,BJ,2021,6,28,2021-06-28,Event
+38,Irregular,1,2,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+39,Cluster,3.17,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+40,Cluster,2.14,2,Mineral,,Mineral,BJ,2021,6,28,2021-06-28,Event
+41,Cluster,4.97,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+42,Cluster,1.62,2,Mineral,,Mineral,BJ,2021,6,28,2021-06-28,Event
+43,Cluster,4.45,3,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+44,Irregular,2.81,3,Calcium Sulfate,flower like,Others,BJ,2021,6,28,2021-06-28,Event
+45,Spherical,1.24,2,Carbonaceous,,Carbonaceous,BJ,2021,6,28,2021-06-28,Event
+46,Irregular,3.09,3,Calcium Sulfate,,Others,BJ,2021,6,28,2021-06-28,Event
+47,Spherical,0.92,1,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+48,Irregular,1.48,2,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+49,Chainlike,1.84,2,N-rich,,N-rich,BJ,2021,6,28,2021-06-28,Event
+50,Irregular,1.81,2,Fe-rich,,Fe-rich,BJ,2021,6,28,2021-06-28,Event
+1,Irregular,1.15,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+2,Chainlike,1.34,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+3,Irregular,1.97,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+4,Cluster,1.48,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+5,Chainlike,1.04,2,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+6,Chainlike,2.18,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+7,Irregular,1.24,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+8,Irregular,0.877,1,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+9,Chainlike,1.76,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+10,Cluster,2.68,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+11,Chainlike,1.86,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+12,Chainlike,1.84,2,Calcium Sulfate,,Others,BJ,2021,6,4,2021-06-04,Non-event
+13,Irregular,0.879,1,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+14,Chainlike,1.45,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+15,Irregular,1.92,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+16,Cluster,1.23,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+17,Irregular,2.18,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+18,Irregular,1.05,2,Mineral,Ba,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+19,Irregular,1.78,2,Mineral,Ba,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+20,Cluster,2.7,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+21,Spherical,0.908,1,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+22,Cluster,2.02,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+23,Cluster,2.11,2,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+24,Cluster,1.96,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+25,Spherical,0.491,1,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+26,Cluster,4.13,3,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+27,Irregular,2.66,3,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+28,Chainlike,2.6,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+29,Irregular,0.34,1,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+30,Chainlike,2.62,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+31,Irregular,0.827,1,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+32,Chainlike,2.37,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+33,Irregular,3.54,3,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+34,Irregular,1.78,2,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+35,Cluster,3.24,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+36,Irregular,0.881,1,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+37,Cluster,4.43,3,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+38,Cluster,4.95,3,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+39,Chainlike,3.55,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+40,Chainlike,2.44,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+41,Cluster,5.26,3,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+42,Irregular,0.947,1,Mineral,BaSO4,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+43,Cluster,2.15,2,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+44,Cluster,1.68,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+45,Cluster,0.91,1,Fe-rich,,Fe-rich,BJ,2021,6,4,2021-06-04,Non-event
+46,Chainlike,2.19,2,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+47,Irregular,2.83,3,N-rich,,N-rich,BJ,2021,6,4,2021-06-04,Non-event
+48,Cluster,2.67,3,Mineral,,Mineral,BJ,2021,6,4,2021-06-04,Non-event
+49,Irregular,1.48,2,Calcium phosphate,"C, P ",Others,BJ,2021,6,4,2021-06-04,Non-event
+50,Cluster,3.88,3,Carbonaceous,,Carbonaceous,BJ,2021,6,4,2021-06-04,Non-event
+1,Cluster,1.25,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+2,Irregular,1.16,2,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+3,Spherical,0.724,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+4,Irregular,0.978,1,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+5,Irregular,1.02,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+6,Irregular,0.919,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+7,Cluster,0.936,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+8,Cluster,0.947,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+9,Irregular,1.66,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+10,Spherical,1.06,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+11,Cluster,1.25,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,5,2021-06-05,Event
+12,Irregular,1.26,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+13,Irregular,0.901,1,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+14,Cluster,1.38,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+15,Cluster,0.798,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+16,Irregular,0.948,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+17,Spherical,0.241,1,Fly ash,,Others,SS,2021,6,5,2021-06-05,Event
+18,Spherical,0.608,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+19,Spherical,0.78,1,Fly ash,,Others,SS,2021,6,5,2021-06-05,Event
+20,Spherical,0.673,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+21,Irregular,0.973,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+22,Irregular,0.529,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+23,Cluster,1.55,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+24,Spherical,0.432,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+25,Irregular,1.55,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+26,Cluster,2.05,2,Carbonaceous,Carbonaceous,Carbonaceous,SS,2021,6,5,2021-06-05,Event
+27,Irregular,0.712,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+28,Cluster,0.451,1,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+29,Chainlike,2.42,2,Calcium Sulfate,,Others,SS,2021,6,5,2021-06-05,Event
+30,Cluster,1.28,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+31,Irregular,1.31,2,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+32,Spherical,1.09,2,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+33,Irregular,0.991,1,Fly ash,,Others,SS,2021,6,5,2021-06-05,Event
+34,Cluster,1.77,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,5,2021-06-05,Event
+35,Irregular,0.686,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+36,Cluster,2.99,3,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+37,Irregular,0.836,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+38,Irregular,1.7,2,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+39,Irregular,1.53,2,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+40,Irregular,0.636,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+41,Irregular,0.57,1,Transition metal,,Transition metal,SS,2021,6,5,2021-06-05,Event
+42,Irregular,1.35,2,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+43,Irregular,1.44,2,N-rich,,N-rich,SS,2021,6,5,2021-06-05,Event
+44,Irregular,0.521,1,Fly ash,,Others,SS,2021,6,5,2021-06-05,Event
+45,Spherical,0.84,1,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+46,Spherical,0.512,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+47,Cluster,2.05,2,Calcium Sulfate,,Others,SS,2021,6,5,2021-06-05,Event
+48,Irregular,1.84,2,Mineral,,Mineral,SS,2021,6,5,2021-06-05,Event
+49,Spherical,0.644,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+50,Irregular,0.842,1,Fe-rich,,Fe-rich,SS,2021,6,5,2021-06-05,Event
+1,Irregular,0.46,1,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+2,Irregular,1.34,2,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+3,Cluster,3.43,3,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+4,Cluster,3.16,3,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+5,Cluster,2.82,3,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+6,Spherical,0.627,1,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+7,Cluster,1.64,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+8,Chainlike,2.14,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+9,Cluster,0.955,1,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+10,Cluster,2.61,3,Flourine compound,,Others,SS,2021,6,16,2021-06-16,Non-event
+11,Irregular,2.06,2,Ca-P,,Others,SS,2021,6,16,2021-06-16,Non-event
+12,Spherical,1.4,2,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+13,Cluster,1.11,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+14,Cluster,1.84,2,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+15,Irregular,0.968,1,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+16,Cluster,4.35,3,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+17,Irregular,1.82,2,Fe-rich,,Fe-rich,SS,2021,6,16,2021-06-16,Non-event
+18,Irregular,1.91,2,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+19,Spherical,1.3,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+20,Cluster,3.09,3,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+21,Irregular,1.01,2,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+22,Irregular,0.452,1,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+23,Cluster,1.69,2,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+24,Cluster,0.439,1,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+25,Cluster,2.32,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+26,Spherical,0.466,1,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+27,Chainlike,1.25,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+28,Chainlike,1.13,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+29,Irregular,0.344,1,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+30,Chainlike,0.948,1,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+31,Spherical,0.945,1,Mineral,,Mineral,SS,2021,6,16,2021-06-16,Non-event
+32,Irregular,1.16,2,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+33,Cluster,3.38,3,Ca-P,,Others,SS,2021,6,16,2021-06-16,Non-event
+34,Irregular,1.32,2,Ca-P,,Others,SS,2021,6,16,2021-06-16,Non-event
+35,Chainlike,2.15,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+36,Cluster,1.86,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+37,Spherical,2.12,2,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+38,Irregular,1.9,2,Fe-rich,,Fe-rich,SS,2021,6,16,2021-06-16,Non-event
+39,Cluster,2.39,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+40,Cluster,1.72,2,Carbonaceous,,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+41,Irregular,0.503,1,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+42,Cluster,1.69,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+43,Irregular,1.25,2,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+44,Irregular,1.75,2,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+45,Irregular,1.31,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+46,Chainlike,3.77,3,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+47,Chainlike,2.13,2,Carbonaceous,N-rich,Carbonaceous,SS,2021,6,16,2021-06-16,Non-event
+48,Spherical,0.434,1,Transition metal,,Transition metal,SS,2021,6,16,2021-06-16,Non-event
+49,Cluster,3.58,3,Calcium Sulfate,,Others,SS,2021,6,16,2021-06-16,Non-event
+50,Irregular,1.83,2,N-rich,,N-rich,SS,2021,6,16,2021-06-16,Non-event
+1,Spherical,0.701,1,Fly ash,,Others,SS,2021,6,20,2021-06-20,Event
+2,Cluster,2.26,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+3,Cluster,3.12,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+4,Cluster,1.79,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+5,Cluster,1.81,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+6,Cluster,2.87,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+7,Chainlike,4.59,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+8,Cluster,1.99,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+9,Cluster,0.914,1,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+10,Cluster,2.81,3,Mineral,,Mineral,SS,2021,6,20,2021-06-20,Event
+11,Irregular,1.07,2,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+12,Irregular,2.44,2,Mineral,,Mineral,SS,2021,6,20,2021-06-20,Event
+13,Cluster,1.13,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+14,Cluster,1.71,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+15,Cluster,1.16,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+16,Irregular,1.83,2,Cl-rich,,Others,SS,2021,6,20,2021-06-20,Event
+17,Cluster,2.1,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+18,Cluster,1.72,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+19,Irregular,1.27,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+20,Cluster,2.74,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+21,Irregular,0.943,1,Mineral,Ti,Mineral,SS,2021,6,20,2021-06-20,Event
+22,Spherical,0.731,1,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+23,Cluster,1.18,2,Fly ash,,Others,SS,2021,6,20,2021-06-20,Event
+24,Cluster,3.05,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+25,Cluster,2.89,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+26,Irregular,1.19,2,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+27,Cluster,1.91,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+28,Cluster,1.07,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+29,Cluster,2.04,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+30,Cluster,1.4,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+31,Cluster,1.36,2,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+32,Cluster,1.6,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+33,Cluster,1.65,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+34,Cluster,3.08,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+35,Cluster,1.29,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+36,Chainlike,1.64,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+37,Cluster,3.32,3,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+38,Spherical,0.722,1,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+39,Cluster,1.53,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+40,Cluster,2.56,3,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+41,Irregular,0.838,1,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+42,Irregular,1.53,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+43,Cluster,2.82,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+44,Cluster,2.19,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+45,Irregular,2.04,2,Mineral,,Mineral,SS,2021,6,20,2021-06-20,Event
+46,Spherical,0.6,1,Fe-rich,,Fe-rich,SS,2021,6,20,2021-06-20,Event
+47,Irregular,3.63,3,Mineral,Ti,Mineral,SS,2021,6,20,2021-06-20,Event
+48,Cluster,3.4,3,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+49,Cluster,1.69,2,N-rich,,N-rich,SS,2021,6,20,2021-06-20,Event
+50,Cluster,1.04,2,Carbonaceous,,Carbonaceous,SS,2021,6,20,2021-06-20,Event
+1,Cluster,1.5,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+2,Irregular,2.97,3,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+3,Spherical,0.651,1,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+4,Cluster,1.71,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+5,Spherical,0.589,1,Fe-rich,,Fe-rich,SS,2021,6,28,2021-06-28,Event
+6,Cluster,1.31,2,Fly ash,,Others,SS,2021,6,28,2021-06-28,Event
+7,Cluster,2.17,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+8,Cluster,0.98,1,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+9,Cluster,1.58,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+10,Cluster,3.66,3,Mineral,,Mineral,SS,2021,6,28,2021-06-28,Event
+11,Irregular,3.35,3,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+12,Irregular,2.4,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+13,Irregular,4.77,3,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+14,Cluster,1.77,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+15,Cluster,2.42,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+16,Irregular,0.57,1,Transition metal,PbS,Transition metal,SS,2021,6,28,2021-06-28,Event
+17,Spherical,0.473,1,Transition metal,W,Transition metal,SS,2021,6,28,2021-06-28,Event
+18,Irregular,1.6,2,Mineral,,Mineral,SS,2021,6,28,2021-06-28,Event
+19,Irregular,0.427,1,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+20,Cluster,4,3,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+21,Cluster,2.36,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+22,Irregular,1.53,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+23,Irregular,0.887,1,Transition metal,Cr,Transition metal,SS,2021,6,28,2021-06-28,Event
+24,Irregular,0.769,1,Transition metal,PbS,Transition metal,SS,2021,6,28,2021-06-28,Event
+25,Cluster,1.62,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+26,Irregular,2.08,2,Transition metal,Cr,Transition metal,SS,2021,6,28,2021-06-28,Event
+27,Irregular,2.49,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+28,Cluster,1.55,2,Mineral,,Mineral,SS,2021,6,28,2021-06-28,Event
+29,Irregular,1.36,2,Calcium Sulfate,,Others,SS,2021,6,28,2021-06-28,Event
+30,Spherical,0.516,1,Fe-rich,,Fe-rich,SS,2021,6,28,2021-06-28,Event
+31,Irregular,0.885,1,Transition metal,Cr,Transition metal,SS,2021,6,28,2021-06-28,Event
+32,Cluster,3.11,3,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+33,Cluster,1.68,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+34,Cluster,1.46,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+35,Irregular,0.758,1,Transition metal,PbS,Transition metal,SS,2021,6,28,2021-06-28,Event
+36,Irregular,0.783,1,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+37,Cluster,1.26,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+38,Irregular,1.44,2,Mineral,,Mineral,SS,2021,6,28,2021-06-28,Event
+39,Irregular,2.86,3,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+40,Irregular,1.47,2,Mineral,,Mineral,SS,2021,6,28,2021-06-28,Event
+41,Cluster,2.57,3,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+42,Cluster,1.37,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+43,Irregular,0.483,1,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+44,Irregular,1.13,2,Transition metal,PbS,Transition metal,SS,2021,6,28,2021-06-28,Event
+45,Irregular,2.12,2,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+46,Cluster,2.35,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+47,Cluster,3.17,3,Carbonaceous,,Carbonaceous,SS,2021,6,28,2021-06-28,Event
+48,Chainlike,1.63,2,N-rich,,N-rich,SS,2021,6,28,2021-06-28,Event
+49,Spherical,0.554,1,Fe-rich,,Fe-rich,SS,2021,6,28,2021-06-28,Event
+50,Irregular,2.98,3,Fe-rich,,Fe-rich,SS,2021,6,28,2021-06-28,Event
+1,Irregular,1.01,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+2,Irregular,1.21,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+3,Cluster,1.38,2,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+4,Cluster,3.44,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+5,Irregular,0.457,1,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+6,Cluster,1.8,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+7,Spherical,0.432,1,Fly ash,,Others,SS,2021,6,17,2021-06-17,Non-event
+8,Irregular,1,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+9,Cluster,1.64,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+10,Irregular,2.07,2,Fe-rich,,Fe-rich,SS,2021,6,17,2021-06-17,Non-event
+11,Cluster,2.65,3,Fe-rich,,Fe-rich,SS,2021,6,17,2021-06-17,Non-event
+12,Irregular,3.65,3,Calcium Sulfate,,Others,SS,2021,6,17,2021-06-17,Non-event
+13,Irregular,1.77,2,Calcium Sulfate,,Others,SS,2021,6,17,2021-06-17,Non-event
+14,Cluster,2.88,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+15,Irregular,3.58,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+16,Irregular,4.54,3,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+17,Irregular,1.95,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+18,Irregular,1.54,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+19,Irregular,1.62,2,Transition metal,"Cr, Ni",Transition metal,SS,2021,6,17,2021-06-17,Non-event
+20,Irregular,1.27,2,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+21,Cluster,1.78,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+22,Irregular,1.81,2,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+23,Cluster,1.03,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+24,Irregular,1.22,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+25,Chainlike,2.98,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+26,Cluster,2.22,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+27,Spherical,0.444,1,Fe-rich,,Fe-rich,SS,2021,6,17,2021-06-17,Non-event
+28,Cluster,2.6,3,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+29,Cluster,1.87,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+30,Irregular,1.68,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+31,Cluster,1.38,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+32,Irregular,2.1,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+33,Cluster,1.26,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+34,Cluster,2.49,2,Fe-rich,,Fe-rich,SS,2021,6,17,2021-06-17,Non-event
+35,Irregular,1.22,2,Calcium Sulfate,,Others,SS,2021,6,17,2021-06-17,Non-event
+36,Cluster,1.91,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+37,Cluster,1.35,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+38,Cluster,1.09,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+39,Cluster,1.26,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+40,Irregular,0.775,1,Transition metal,"Cr, Ni",Transition metal,SS,2021,6,17,2021-06-17,Non-event
+41,Cluster,1.44,2,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+42,Cluster,1.51,2,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+43,Irregular,2.8,3,Calcium Sulfate,,Others,SS,2021,6,17,2021-06-17,Non-event
+44,Cluster,2.82,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+45,Cluster,1.97,2,Calcium Sulfate,,Others,SS,2021,6,17,2021-06-17,Non-event
+46,Irregular,3.05,3,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+47,Irregular,1.38,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+48,Cluster,1.12,2,N-rich,,N-rich,SS,2021,6,17,2021-06-17,Non-event
+49,Cluster,5.55,3,Carbonaceous,,Carbonaceous,SS,2021,6,17,2021-06-17,Non-event
+50,Irregular,2.16,2,Mineral,,Mineral,SS,2021,6,17,2021-06-17,Non-event
+1,Irregular,1.67,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+2,Spherical,0.556,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+3,Cluster,2.31,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+4,Cluster,1.65,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+5,Cluster,1.2,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+6,Cluster,1.55,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+7,Cluster,1.42,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+8,Cluster,2.41,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+9,Irregular,1.39,2,Mineral,,Mineral,SE,2021,6,5,2021-06-05,Event
+10,Irregular,0.759,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+11,Cluster,2.68,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+12,Cluster,3.21,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+13,Irregular,0.795,1,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+14,Irregular,1.81,2,Mineral,,Mineral,SE,2021,6,5,2021-06-05,Event
+15,Irregular,4.41,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+16,Irregular,5.22,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+17,Cluster,1.15,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+18,Chainlike,2.67,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+19,Irregular,1.85,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+20,Chainlike,4.7,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+21,Cluster,1.9,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+22,Irregular,0.763,1,Transition metal,,Transition metal,SE,2021,6,5,2021-06-05,Event
+23,Irregular,1.71,2,Mineral,,Mineral,SE,2021,6,5,2021-06-05,Event
+24,Irregular,0.942,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+25,Spherical,0.678,1,Fly ash,,Others,SE,2021,6,5,2021-06-05,Event
+26,Cluster,2.65,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+27,Irregular,1.68,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+28,Irregular,0.945,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+29,Irregular,2.39,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+30,Irregular,1.35,2,Mineral,,Mineral,SE,2021,6,5,2021-06-05,Event
+31,Spherical,0.642,1,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+32,Spherical,0.389,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+33,Irregular,0.999,1,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+34,Cluster,1.37,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+35,Cluster,2.51,3,Mineral,,Mineral,SE,2021,6,5,2021-06-05,Event
+36,Irregular,1.29,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+37,Spherical,0.548,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+38,Irregular,1.03,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+39,Cluster,2.03,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+40,Spherical,0.67,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+41,Cluster,1.3,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+42,Irregular,2.12,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+43,Cluster,3.3,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+44,Spherical,0.583,1,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+45,Spherical,0.639,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+46,Cluster,1.04,2,S-rich,,Others,SE,2021,6,5,2021-06-05,Event
+47,Irregular,1.12,2,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+48,Cluster,1.68,2,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+49,Irregular,4.13,3,N-rich,,N-rich,SE,2021,6,5,2021-06-05,Event
+50,Spherical,0.696,1,Fe-rich,,Fe-rich,SE,2021,6,5,2021-06-05,Event
+1,Cluster,4.66,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+2,Cluster,3.54,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+3,Cluster,2.52,3,Transition metal,,Transition metal,SE,2021,6,16,2021-06-16,Non-event
+4,Cluster,1.18,2,Fe-rich,,Fe-rich,SE,2021,6,16,2021-06-16,Non-event
+5,Cluster,1.27,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+6,Chainlike,3.38,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+7,Cluster,1.84,2,Fe-rich,,Fe-rich,SE,2021,6,16,2021-06-16,Non-event
+8,Cluster,4.42,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+9,Cluster,0.86,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+10,Irregular,1.34,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+11,Irregular,0.433,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+12,Cluster,1.18,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+13,Irregular,1.19,2,Transition metal,,Transition metal,SE,2021,6,16,2021-06-16,Non-event
+14,Irregular,0.807,1,Fe-rich,,Fe-rich,SE,2021,6,16,2021-06-16,Non-event
+15,Chainlike,0.978,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+16,Irregular,0.96,1,Transition metal,,Transition metal,SE,2021,6,16,2021-06-16,Non-event
+17,Irregular,1.14,2,Fe-rich,,Fe-rich,SE,2021,6,16,2021-06-16,Non-event
+18,Cluster,2.12,2,Mineral,,Mineral,SE,2021,6,16,2021-06-16,Non-event
+19,Cluster,1.16,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+20,Cluster,1.32,2,Carbonaceous,N-rich,Carbonaceous,SE,2021,6,16,2021-06-16,Non-event
+21,Cluster,1.41,2,Fe-rich,,Fe-rich,SE,2021,6,16,2021-06-16,Non-event
+22,Irregular,1.83,2,Mineral,,Mineral,SE,2021,6,16,2021-06-16,Non-event
+23,Spherical,0.473,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+24,Cluster,1.02,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+25,Cluster,1.33,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+26,Irregular,1.18,2,Mineral,,Mineral,SE,2021,6,16,2021-06-16,Non-event
+27,Irregular,1.51,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+28,Cluster,2.92,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+29,Cluster,1.53,2,Calcium Sulfate,,Others,SE,2021,6,16,2021-06-16,Non-event
+30,Irregular,0.725,1,Mineral,,Mineral,SE,2021,6,16,2021-06-16,Non-event
+31,Irregular,1.16,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+32,Irregular,0.969,1,S-rich,,Others,SE,2021,6,16,2021-06-16,Non-event
+33,Irregular,1.1,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+34,Irregular,1.04,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+35,Chainlike,1.83,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+36,Irregular,3.33,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+37,Chainlike,5.23,3,Carbonaceous,N-rich,Carbonaceous,SE,2021,6,16,2021-06-16,Non-event
+38,Cluster,1.47,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+39,Irregular,1.75,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+40,Cluster,1.55,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+41,Irregular,0.469,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+42,Irregular,0.523,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+43,Chainlike,0.926,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+44,Irregular,0.433,1,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+45,Cluster,1.13,2,Transition metal,,Transition metal,SE,2021,6,16,2021-06-16,Non-event
+46,Chainlike,1.05,2,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+47,Spherical,0.44,1,Fly ash,,Others,SE,2021,6,16,2021-06-16,Non-event
+48,Irregular,2.04,2,Ca-rich,,Others,SE,2021,6,16,2021-06-16,Non-event
+49,Cluster,3.11,3,N-rich,,N-rich,SE,2021,6,16,2021-06-16,Non-event
+50,Cluster,0.709,1,Ca-rich,,Others,SE,2021,6,16,2021-06-16,Non-event
+1,Cluster,1.4,2,Fe-rich,spherical cluster,Fe-rich,SE,2021,6,20,2021-06-20,Event
+2,Irregular,1.58,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+3,Cluster,0.69,1,Transition metal,Pb-S,Transition metal,SE,2021,6,20,2021-06-20,Event
+4,Spherical,0.54,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+5,Cluster,1.5,2,N-rich,spherical cluster,N-rich,SE,2021,6,20,2021-06-20,Event
+6,Irregular,1.67,2,Calcium Sulfate,,Others,SE,2021,6,20,2021-06-20,Event
+7,Irregular,1.14,2,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+8,Irregular,0.889,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+9,Irregular,0.911,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+10,Spherical,1.06,2,Mineral,Al-Si,Mineral,SE,2021,6,20,2021-06-20,Event
+11,Cluster,1.46,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+12,Irregular,1.51,2,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+13,Cluster,1.35,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+14,Spherical,0.498,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+15,Cluster,1.79,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+16,Irregular,1.54,2,Carbonaceous,spherical cluster,Carbonaceous,SE,2021,6,20,2021-06-20,Event
+17,Irregular,0.611,1,Transition metal,Cr-Ni,Transition metal,SE,2021,6,20,2021-06-20,Event
+18,Irregular,1.05,2,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+19,Spherical,1.19,2,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+20,Spherical,0.418,1,Fly ash,,Others,SE,2021,6,20,2021-06-20,Event
+21,Spherical,0.751,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+22,Irregular,1.62,2,Mineral,Ti,Mineral,SE,2021,6,20,2021-06-20,Event
+23,Spherical,0.855,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+24,Irregular,1.37,2,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+25,Cluster,1.3,2,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+26,Cluster,0.968,1,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+27,Spherical,0.565,1,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+28,Irregular,1.54,2,Zn-N,??,Others,SE,2021,6,20,2021-06-20,Event
+29,Irregular,2.92,3,Mineral,Ti,Mineral,SE,2021,6,20,2021-06-20,Event
+30,Spherical,0.804,1,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+31,Irregular,0.781,1,Mineral,BaSO4,Mineral,SE,2021,6,20,2021-06-20,Event
+32,Cluster,1.52,2,Carbonaceous,,Carbonaceous,SE,2021,6,20,2021-06-20,Event
+33,Spherical,0.614,1,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+34,Irregular,1.86,2,Mineral,BaSO4,Mineral,SE,2021,6,20,2021-06-20,Event
+35,Cluster,1.39,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+36,Cluster,1.27,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+37,Irregular,2.46,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+38,Irregular,1.38,2,N-rich,Zn,N-rich,SE,2021,6,20,2021-06-20,Event
+39,Cluster,2.12,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+40,Spherical,1.91,2,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+41,Irregular,3.67,3,Mineral,Ti,Mineral,SE,2021,6,20,2021-06-20,Event
+42,Cluster,2.35,2,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+43,Cluster,3.29,3,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+44,Cluster,2.49,2,Calcium Sulfate,,Others,SE,2021,6,20,2021-06-20,Event
+45,Cluster,1.75,2,Fe-rich,spherical cluster,Fe-rich,SE,2021,6,20,2021-06-20,Event
+46,Irregular,0.914,1,Mineral,,Mineral,SE,2021,6,20,2021-06-20,Event
+47,Cluster,1.8,2,Carbonaceous,,Carbonaceous,SE,2021,6,20,2021-06-20,Event
+48,Cluster,2.47,2,Carbonaceous,,Carbonaceous,SE,2021,6,20,2021-06-20,Event
+49,Irregular,1.2,2,Fe-rich,,Fe-rich,SE,2021,6,20,2021-06-20,Event
+50,Irregular,0.449,1,N-rich,,N-rich,SE,2021,6,20,2021-06-20,Event
+1,Cluster,1.09,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+2,Irregular,0.742,1,Transition metal,PbS,Transition metal,SE,2021,6,14,2021-06-14,Event
+3,Irregular,1.58,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+4,Irregular,1.04,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+5,Spherical,0.559,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+6,Irregular,0.831,1,Calcium Sulfate,,Others,SE,2021,6,14,2021-06-14,Event
+7,Cluster,3.1,3,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+8,Spherical,0.794,1,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+9,Spherical,0.645,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+10,Irregular,2.28,2,NaCl,,Others,SE,2021,6,14,2021-06-14,Event
+11,Irregular,3.86,3,Transition metal,Cr-Sb,Transition metal,SE,2021,6,14,2021-06-14,Event
+12,Cluster,1.24,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+13,Cluster,2.68,3,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+14,Cluster,1.98,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+15,Irregular,1.6,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+16,Cluster,2.57,3,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+17,Irregular,0.73,1,Transition metal,PbS,Transition metal,SE,2021,6,14,2021-06-14,Event
+18,Spherical,0.728,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+19,Irregular,1.57,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+20,Cluster,0.621,1,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+21,Irregular,1.3,2,Fly ash,,Others,SE,2021,6,14,2021-06-14,Event
+22,Irregular,2.63,3,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+23,Irregular,1.12,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+24,Cluster,1.93,2,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+25,Cluster,1.99,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+26,Irregular,0.908,1,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+27,Spherical,0.762,1,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+28,Cluster,1.01,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+29,Irregular,2.08,2,Calcium Sulfate,,Others,SE,2021,6,14,2021-06-14,Event
+30,Irregular,0.879,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+31,Irregular,2.14,2,Calcium Sulfate,,Others,SE,2021,6,14,2021-06-14,Event
+32,Cluster,1.42,2,Mineral,,Mineral,SE,2021,6,14,2021-06-14,Event
+33,Cluster,2.9,3,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+34,Cluster,1.01,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+35,Irregular,2.1,2,Calcium Sulfate,,Others,SE,2021,6,14,2021-06-14,Event
+36,Chainlike,1.95,2,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+37,Cluster,1.87,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+38,Cluster,2.04,2,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+39,Irregular,1.1,2,Transition metal,PbS,Transition metal,SE,2021,6,14,2021-06-14,Event
+40,Cluster,1.93,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+41,Chainlike,3.38,3,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+42,Irregular,1.39,2,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+43,Irregular,1.72,2,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+44,Irregular,1.51,2,Mineral,Ti,Mineral,SE,2021,6,14,2021-06-14,Event
+45,Irregular,0.726,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+46,Cluster,1.28,2,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+47,Irregular,0.853,1,N-rich,,N-rich,SE,2021,6,14,2021-06-14,Event
+48,Cluster,2.55,3,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+49,Cluster,0.723,1,Fe-rich,,Fe-rich,SE,2021,6,14,2021-06-14,Event
+50,Cluster,1.12,2,Carbonaceous,,Carbonaceous,SE,2021,6,14,2021-06-14,Event
+1,Cluster,0.757,1,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+2,Irregular,0.687,1,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+3,Irregular,1.05,2,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+4,Irregular,0.594,1,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+5,Cluster,2.52,3,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+6,Irregular,1.06,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+7,Cluster,1.6,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+8,Cluster,1.21,2,N-rich,spherical cluster,N-rich,SE,2021,6,24,2021-06-24,Event
+9,Cluster,2.03,2,Carbonaceous,spherical cluster,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+10,Irregular,1.51,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+11,Cluster,2.47,2,N-rich,`,N-rich,SE,2021,6,24,2021-06-24,Event
+12,Cluster,1.67,2,Carbonaceous,S-containing,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+13,Irregular,0.751,1,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+14,Cluster,0.684,1,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+15,Irregular,1.13,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+16,Irregular,1.06,2,Transition metal,PbS,Transition metal,SE,2021,6,24,2021-06-24,Event
+17,Irregular,0.575,1,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+18,Cluster,1.05,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+19,Spherical,0.574,1,Transition metal,Cr,Transition metal,SE,2021,6,24,2021-06-24,Event
+20,Irregular,1.08,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+21,Irregular,0.626,1,Transition metal,PbS,Transition metal,SE,2021,6,24,2021-06-24,Event
+22,Irregular,1.5,2,Mineral,,Mineral,SE,2021,6,24,2021-06-24,Event
+23,Cluster,1.95,2,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+24,Irregular,1.04,2,Mineral,Ti,Mineral,SE,2021,6,24,2021-06-24,Event
+25,Spherical,1.17,2,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+26,Cluster,2.05,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+27,Cluster,2.14,2,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+28,Irregular,0.648,1,Transition metal,PbS,Transition metal,SE,2021,6,24,2021-06-24,Event
+29,Cluster,2.74,3,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+30,Irregular,0.981,1,Mineral,BaSO4,Mineral,SE,2021,6,24,2021-06-24,Event
+31,Irregular,1.17,2,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+32,Irregular,0.488,1,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+33,Cluster,2.56,3,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+34,Cluster,4.01,3,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+35,Irregular,0.851,1,Transition metal,PbS,Transition metal,SE,2021,6,24,2021-06-24,Event
+36,Cluster,0.758,1,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+37,Cluster,1.43,2,S-rich,,Others,SE,2021,6,24,2021-06-24,Event
+38,Cluster,2.06,2,Carbonaceous,S-containing,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+39,Cluster,1.74,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+40,Irregular,0.971,1,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+41,Irregular,2.2,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+42,Irregular,1.22,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+43,Spherical,0.974,1,Mineral,,Mineral,SE,2021,6,24,2021-06-24,Event
+44,Irregular,1.55,2,N-rich,,N-rich,SE,2021,6,24,2021-06-24,Event
+45,Irregular,1.19,2,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+46,Irregular,1.04,2,Mineral,BaSO4,Mineral,SE,2021,6,24,2021-06-24,Event
+47,Cluster,2.82,3,Carbonaceous,,Carbonaceous,SE,2021,6,24,2021-06-24,Event
+48,Cluster,2.41,2,N-rich,S-containing,N-rich,SE,2021,6,24,2021-06-24,Event
+49,Spherical,0.665,1,Fe-rich,,Fe-rich,SE,2021,6,24,2021-06-24,Event
+50,Irregular,1.59,2,Mineral,"BaSO4, Ti",Mineral,SE,2021,6,24,2021-06-24,Event
+1,Irregular,0.908,1,Fe-rich,,Fe-rich,SE,2021,6,27,2021-06-27,Non-event
+2,Spherical,2.17,2,Fe-rich,,Fe-rich,SE,2021,6,27,2021-06-27,Non-event
+3,Irregular,1.05,2,Fe-rich,,Fe-rich,SE,2021,6,27,2021-06-27,Non-event
+4,Cluster,1.35,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+5,Irregular,1.5,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+6,Irregular,1.59,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+7,Cluster,1.38,2,Mineral,BaSO4,Mineral,SE,2021,6,27,2021-06-27,Non-event
+8,Cluster,2.14,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+9,Cluster,2.71,3,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+10,Cluster,0.988,1,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+11,Irregular,1.3,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+12,Cluster,1.78,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+13,Irregular,1.63,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+14,Cluster,1.16,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+15,Cluster,2.37,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+16,Irregular,2.25,2,Fe-rich,,Fe-rich,SE,2021,6,27,2021-06-27,Non-event
+17,Cluster,2.46,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+18,Irregular,0.372,1,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+19,Cluster,0.958,1,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+20,Cluster,0.733,1,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+21,Cluster,1.28,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+22,Cluster,1.66,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+23,Cluster,1.02,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+24,Cluster,1.94,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+25,Irregular,0.681,1,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+26,Cluster,2.82,3,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+27,Irregular,1.66,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+28,Cluster,2.85,3,Calcium Sulfate,,Others,SE,2021,6,27,2021-06-27,Non-event
+29,Cluster,2.13,2,N-rich,S-containing,N-rich,SE,2021,6,27,2021-06-27,Non-event
+30,Irregular,2.1,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+31,Cluster,0.99,1,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+32,Irregular,0.709,1,Transition metal,PbS,Transition metal,SE,2021,6,27,2021-06-27,Non-event
+33,Irregular,1.13,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+34,Cluster,0.668,1,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+35,Irregular,0.811,1,Mineral,"BaSO4, Ti",Mineral,SE,2021,6,27,2021-06-27,Non-event
+36,Irregular,1.56,2,N-rich,Major-N,N-rich,SE,2021,6,27,2021-06-27,Non-event
+37,Cluster,1.24,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+38,Cluster,1.42,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+39,Chainlike,1.97,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+40,Cluster,1.57,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+41,Irregular,0.886,1,Mineral,BaSO4,Mineral,SE,2021,6,27,2021-06-27,Non-event
+42,Irregular,2.33,2,N-rich,,N-rich,SE,2021,6,27,2021-06-27,Non-event
+43,Irregular,1.72,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+44,Cluster,1.97,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+45,Irregular,1.48,2,Mineral,,Mineral,SE,2021,6,27,2021-06-27,Non-event
+46,Spherical,0.368,1,Fe-rich,,Fe-rich,SE,2021,6,27,2021-06-27,Non-event
+47,Cluster,3.17,3,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+48,Cluster,2.01,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+49,Cluster,1.06,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+50,Cluster,1.46,2,Carbonaceous,,Carbonaceous,SE,2021,6,27,2021-06-27,Non-event
+1,Irregular,1.01,2,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+2,Cluster,1.94,2,Carbonaceous,N-rich,Carbonaceous,NT,2021,6,9,2021-06-09,Event
+3,Irregular,0.953,1,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+4,Irregular,1.4,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+5,Irregular,1.36,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+6,Irregular,0.537,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+7,Spherical,0.406,1,Fe-rich,,Fe-rich,NT,2021,6,9,2021-06-09,Event
+8,Cluster,0.685,1,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+9,Cluster,1.09,2,Carbonaceous,N-rich,Carbonaceous,NT,2021,6,9,2021-06-09,Event
+10,Irregular,1.41,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+11,Irregular,0.699,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+12,Irregular,1.3,2,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+13,Irregular,1.16,2,Ca-rich,,Others,NT,2021,6,9,2021-06-09,Event
+14,Irregular,1.03,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+15,Irregular,1.43,2,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+16,Irregular,1.61,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+17,Irregular,0.904,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+18,Irregular,1.07,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+19,Irregular,1.72,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+20,Irregular,1.63,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+21,Irregular,1.23,2,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+22,Irregular,0.747,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+23,Irregular,0.819,1,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+24,Cluster,1.9,2,Carbonaceous,N-rich,Carbonaceous,NT,2021,6,9,2021-06-09,Event
+25,Irregular,0.519,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+26,Cluster,0.62,1,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+27,Irregular,0.475,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+28,Cluster,1.05,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+29,Irregular,1.21,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+30,Irregular,1.09,2,Fe-rich,,Fe-rich,NT,2021,6,9,2021-06-09,Event
+31,Cluster,1.41,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+32,Irregular,2.22,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+33,Irregular,2.01,2,Fly ash,,Others,NT,2021,6,9,2021-06-09,Event
+34,Cluster,1.08,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+35,Irregular,0.473,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+36,Irregular,1.18,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+37,Irregular,1.46,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+38,Irregular,1.64,2,S-rich,,Others,NT,2021,6,9,2021-06-09,Event
+39,Spherical,0.827,1,Fe-rich,,Fe-rich,NT,2021,6,9,2021-06-09,Event
+40,Irregular,0.437,1,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+41,Cluster,1.08,2,Fe-rich,,Fe-rich,NT,2021,6,9,2021-06-09,Event
+42,Irregular,1.53,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+43,Irregular,0.998,1,Fe-rich,,Fe-rich,NT,2021,6,9,2021-06-09,Event
+44,Irregular,1.43,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+45,Irregular,2.48,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+46,Irregular,0.967,1,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+47,Irregular,0.443,1,Fly ash,,Others,NT,2021,6,9,2021-06-09,Event
+48,Irregular,2.01,2,Transition metal,,Transition metal,NT,2021,6,9,2021-06-09,Event
+49,Cluster,1.08,2,N-rich,,N-rich,NT,2021,6,9,2021-06-09,Event
+50,Irregular,1.77,2,Mineral,,Mineral,NT,2021,6,9,2021-06-09,Event
+1,Irregular,0.847,1,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+2,Irregular,0.762,1,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+3,Cluster,0.838,1,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+4,Cluster,1.39,2,Carbonaceous,N-rich,Carbonaceous,NT,2021,6,4,2021-06-04,Non-event
+5,Irregular,1.65,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+6,Irregular,1.65,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+7,Irregular,1.75,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+8,Irregular,1.13,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+9,Irregular,1.94,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+10,Irregular,0.547,1,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+11,Chainlike,3.21,3,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+12,Irregular,1.69,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+13,Chainlike,1.4,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+14,Cluster,1.29,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+15,Irregular,0.965,1,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+16,Irregular,1.51,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+17,Irregular,2.98,3,Carbonaceous,N-rich,Carbonaceous,NT,2021,6,4,2021-06-04,Non-event
+18,Irregular,1.35,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+19,Irregular,2.48,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+20,Irregular,1.11,2,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+21,Irregular,1.17,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+22,Irregular,1.28,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+23,Irregular,1.24,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+24,Irregular,0.609,1,Fe-rich,,Fe-rich,NT,2021,6,4,2021-06-04,Non-event
+25,Irregular,1.17,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+26,Irregular,2.13,2,Carbonaceous,Mineral,Carbonaceous,NT,2021,6,4,2021-06-04,Non-event
+27,Irregular,1.61,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+28,Irregular,0.954,1,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+29,Irregular,2.21,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+30,Irregular,3.42,3,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+31,Irregular,0.978,1,Transition metal,,Transition metal,NT,2021,6,4,2021-06-04,Non-event
+32,Irregular,1.52,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+33,Irregular,1.62,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+34,Cluster,1.21,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+35,Cluster,2.01,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+36,Chainlike,1.82,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+37,Irregular,1.7,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+38,Irregular,1.5,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+39,Irregular,0.502,1,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+40,Irregular,1.52,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+41,Irregular,1.83,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+42,Irregular,1.42,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+43,Irregular,1.82,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+44,Irregular,1.1,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+45,Irregular,1.8,2,Ca-rich,,Others,NT,2021,6,4,2021-06-04,Non-event
+46,Cluster,1.54,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+47,Irregular,1.86,2,Mineral,,Mineral,NT,2021,6,4,2021-06-04,Non-event
+48,Irregular,1.55,2,N-rich,,N-rich,NT,2021,6,4,2021-06-04,Non-event
+49,Irregular,1.12,2,Fe-rich,,Fe-rich,NT,2021,6,4,2021-06-04,Non-event
+50,Irregular,1.06,2,Carbonaceous,Fe-rich,Carbonaceous,NT,2021,6,4,2021-06-04,Non-event
+1,Irregular,1.83,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+2,Spherical,0.717,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+3,Irregular,3.09,3,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+4,Irregular,1.44,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+5,Irregular,1.31,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+6,Irregular,1.6,2,Transition metal,"Cr, Ni, Mo",Transition metal,NT,2021,6,6,2021-06-06,Event
+7,Irregular,1.95,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+8,Irregular,1.37,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+9,Spherical,0.959,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+10,Irregular,0.951,1,Transition metal,Cr,Transition metal,NT,2021,6,6,2021-06-06,Event
+11,Cluster,1.59,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+12,Irregular,2.14,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+13,Irregular,3.35,3,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+14,Irregular,2.92,3,Calcium Sulfate,,Others,NT,2021,6,6,2021-06-06,Event
+15,Irregular,1.22,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+16,Irregular,2.83,3,Mineral,Ti,Mineral,NT,2021,6,6,2021-06-06,Event
+17,Irregular,2.38,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+18,Irregular,2.01,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+19,Spherical,0.482,1,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+20,Irregular,2.77,3,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+21,Cluster,1.41,2,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+22,Irregular,0.963,1,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+23,Irregular,1.24,2,Transition metal,PbS,Transition metal,NT,2021,6,6,2021-06-06,Event
+24,Irregular,0.742,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+25,Irregular,0.469,1,Transition metal,PbS,Transition metal,NT,2021,6,6,2021-06-06,Event
+26,Cluster,1.5,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+27,Cluster,2.9,3,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+28,Irregular,2.08,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+29,Cluster,3.56,3,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+30,Irregular,1.98,2,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+31,Irregular,0.992,1,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+32,Irregular,0.919,1,Mineral,,Mineral,NT,2021,6,6,2021-06-06,Event
+33,Spherical,0.706,1,Mineral,Ti,Mineral,NT,2021,6,6,2021-06-06,Event
+34,Irregular,1.89,2,Transition metal,PbS,Transition metal,NT,2021,6,6,2021-06-06,Event
+35,Cluster,2.08,2,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+36,Irregular,2.38,2,Transition metal,"Cr, Ni, Mo",Transition metal,NT,2021,6,6,2021-06-06,Event
+37,Cluster,,2,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+38,Cluster,1.02,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+39,Irregular,0.384,1,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+40,Spherical,0.366,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+41,Spherical,0.671,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+42,Irregular,1.38,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+43,Cluster,0.999,1,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+44,Cluster,2.02,2,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+45,Irregular,0.877,1,Fly ash,,Others,NT,2021,6,6,2021-06-06,Event
+46,Cluster,1.07,2,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+47,Chainlike,3.1,3,Carbonaceous,,Carbonaceous,NT,2021,6,6,2021-06-06,Event
+48,Irregular,1.3,2,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+49,Irregular,0.939,1,Fe-rich,,Fe-rich,NT,2021,6,6,2021-06-06,Event
+50,Cluster,2.53,3,N-rich,,N-rich,NT,2021,6,6,2021-06-06,Event
+1,Cluster,1.18,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+2,Cluster,2.01,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+3,Irregular,1.52,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+4,Irregular,3.02,3,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+5,Cluster,1.64,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+6,Irregular,2.11,2,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+7,Chainlike,2.11,2,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+8,Irregular,1.01,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+9,Cluster,1.82,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+10,Irregular,2.15,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+11,Cluster,2.32,2,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+12,Cluster,1.89,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+13,Cluster,2.1,2,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+14,Irregular,1.93,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+15,Irregular,2.29,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+16,Spherical,0.874,1,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+17,Irregular,1.42,2,Mineral,BaSO4,Mineral,NT,2021,6,8,2021-06-08,Event
+18,Irregular,0.796,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+19,Cluster,3.66,3,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+20,Spherical,0.475,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+21,Cluster,2.06,2,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+22,Irregular,1.57,2,Transition metal,PbS,Transition metal,NT,2021,6,8,2021-06-08,Event
+23,Irregular,1.09,2,Transition metal,PbS,Transition metal,NT,2021,6,8,2021-06-08,Event
+24,Irregular,1.84,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+25,Irregular,0.951,1,Transition metal,PbS,Transition metal,NT,2021,6,8,2021-06-08,Event
+26,Cluster,1.96,2,Transition metal,PbS,Transition metal,NT,2021,6,8,2021-06-08,Event
+27,Cluster,4.75,3,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+28,Irregular,2.22,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+29,Irregular,1.5,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+30,Irregular,1.42,2,Mineral,BaSO4,Mineral,NT,2021,6,8,2021-06-08,Event
+31,Cluster,2.61,3,Carbonaceous,,Carbonaceous,NT,2021,6,8,2021-06-08,Event
+32,Cluster,2.08,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+33,Irregular,1.94,2,Calcium Sulfate,,Others,NT,2021,6,8,2021-06-08,Event
+34,Irregular,2.19,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+35,Irregular,1.39,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+36,Cluster,1.05,2,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+37,Irregular,0.587,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+38,Chainlike,1.03,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+39,Irregular,1.23,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+40,Cluster,1.05,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+41,Cluster,0.927,1,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+42,Irregular,1.89,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+43,Irregular,0.728,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+44,Irregular,2.63,3,Cl-rich,,Others,NT,2021,6,8,2021-06-08,Event
+45,Irregular,1.62,2,Mineral,,Mineral,NT,2021,6,8,2021-06-08,Event
+46,Cluster,2.09,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+47,Irregular,0.992,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+48,Irregular,0.698,1,Transition metal,PbS,Transition metal,NT,2021,6,8,2021-06-08,Event
+49,Spherical,0.726,1,Fe-rich,,Fe-rich,NT,2021,6,8,2021-06-08,Event
+50,Irregular,1.35,2,N-rich,,N-rich,NT,2021,6,8,2021-06-08,Event
+1,Irregular,2.18,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+2,Irregular,1.29,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+3,Cluster,1.09,2,Calcium Sulfate,,Others,NT,2021,6,1,2021-06-01,Non-event
+4,Cluster,0.947,1,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+5,Irregular,1.23,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+6,Irregular,1.5,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+7,Cluster,1.83,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+8,Cluster,2.07,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+9,Irregular,1.56,2,Calcium Sulfate,,Others,NT,2021,6,1,2021-06-01,Non-event
+10,Irregular,0.941,1,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+11,Irregular,1.91,2,Mineral,BaSO4,Mineral,NT,2021,6,1,2021-06-01,Non-event
+12,Irregular,1.05,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+13,Irregular,0.966,1,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+14,Irregular,1.46,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+15,Cluster,2.1,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+16,Cluster,1.63,2,Carbonaceous,,Carbonaceous,NT,2021,6,1,2021-06-01,Non-event
+17,Irregular,3.27,3,Carbonaceous,,Carbonaceous,NT,2021,6,1,2021-06-01,Non-event
+18,Irregular,1.28,2,Fe-rich,,Fe-rich,NT,2021,6,1,2021-06-01,Non-event
+19,Irregular,1.92,2,N-rich,@,N-rich,NT,2021,6,1,2021-06-01,Non-event
+20,Irregular,1.84,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+21,Irregular,2.55,3,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+22,Irregular,0.967,1,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+23,Cluster,0.769,1,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+24,Irregular,2.23,2,Mineral,BaSO4,Mineral,NT,2021,6,1,2021-06-01,Non-event
+25,Irregular,1.67,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+26,Irregular,1.48,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+27,Cluster,1.99,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+28,Irregular,1.65,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+29,Irregular,1.51,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+30,Cluster,1.45,2,Carbonaceous,,Carbonaceous,NT,2021,6,1,2021-06-01,Non-event
+31,Irregular,1.36,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+32,Cluster,2.22,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+33,Irregular,2.63,3,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+34,Irregular,1.36,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+35,Irregular,2.19,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+36,Irregular,3.04,3,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+37,Cluster,1.94,2,Transition metal,Ru,Transition metal,NT,2021,6,1,2021-06-01,Non-event
+38,Irregular,1.42,2,Transition metal,Cr,Transition metal,NT,2021,6,1,2021-06-01,Non-event
+39,Irregular,0.701,1,Transition metal,Cr,Transition metal,NT,2021,6,1,2021-06-01,Non-event
+40,Cluster,2.42,2,Carbonaceous,,Carbonaceous,NT,2021,6,1,2021-06-01,Non-event
+41,Irregular,2.14,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+42,Spherical,0.549,1,Fly ash,,Others,NT,2021,6,1,2021-06-01,Non-event
+43,Cluster,1.6,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+44,Cluster,1.02,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+45,Irregular,1.9,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+46,Irregular,1.29,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+47,Irregular,1.05,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+48,Irregular,1.68,2,Mineral,,Mineral,NT,2021,6,1,2021-06-01,Non-event
+49,Cluster,2.2,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
+50,Cluster,1.85,2,N-rich,,N-rich,NT,2021,6,1,2021-06-01,Non-event
