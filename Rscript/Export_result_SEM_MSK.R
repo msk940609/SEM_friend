@@ -694,7 +694,7 @@ dev.off()
 png(filepng("nt_pie_nev_2nd_fin"), width = 20, height = 20,units = "cm",res = 300, bg = "transparent")
 PieDonut_ms(sem_merge_2nd_nt_nev,aes(Morlab ,Type2 ), pieLabelSize=0,donutLabelSize = 0,
             r1=getOption("PieDonut.r1",0.97), r2=getOption("PieDonut.r2",1.2),
-            color="black",piecolor = "white",donutcolor = "black",pielwd = 1.6, donutlwd = 1.3,
+            color="black",piecolor = "white",donutcolor = "white",pielwd = 1.6, donutlwd = 1.3,
             pietitle = "NT",titlesize = 15,ratioByGroup=F,
             pieAlpha = 1, donutAlpha = 1,showPieName = T,
             showRatioThreshold = getOption("PieDonut.showRatioThreshold", 0.01),

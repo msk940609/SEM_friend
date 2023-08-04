@@ -104,6 +104,10 @@ require(moonBook)
 require(webr)
 library(grid)
 
+library(patchwork)
+library("ggpattern")
+
+
 filepng <- function(filename){
   # check that ftmsObj is of the correct class #
   
